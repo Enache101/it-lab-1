@@ -463,5 +463,497 @@
     "why": "Handover and later benefit measurement need clear responsibility. Forecast benefits should not be reported as achieved without evidence.",
     "source": "prince",
     "prompt": "State a suitable benefit measure and who should own its post-project review."
+  },
+  {
+    "id": "clue-entry-1",
+    "level": "entry",
+    "topic": "Methods",
+    "question": "PMBOK is a guide to a body of project-management knowledge, rather than one fixed delivery method.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answer": 0,
+    "why": "Distinguish a knowledge guide from a delivery approach or framework when comparing methods.",
+    "source": "Original practice based on supplied BM522 revision concepts"
+  },
+  {
+    "id": "clue-entry-2",
+    "level": "entry",
+    "topic": "Scope",
+    "question": "Every proposed scope change necessarily increases both the project cost and its duration.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answer": 1,
+    "why": "Assess the actual impacts. A change can increase, reduce or leave particular measures unchanged.",
+    "source": "Original practice based on supplied BM522 revision concepts"
+  },
+  {
+    "id": "clue-entry-3",
+    "level": "entry",
+    "topic": "Themes",
+    "question": "PRINCE2 themes need continuing attention while a project is being managed.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answer": 0,
+    "why": "For example, risks and business justification need review as information changes.",
+    "source": "Original practice based on supplied BM522 revision concepts"
+  },
+  {
+    "id": "clue-entry-4",
+    "level": "entry",
+    "topic": "Tailoring",
+    "question": "Tailoring a small project permits the team to remove accountability for important decisions.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answer": 1,
+    "why": "Simplify proportionately while keeping decision authority and responsibilities clear.",
+    "source": "Original practice based on supplied BM522 revision concepts"
+  },
+  {
+    "id": "clue-entry-5",
+    "level": "entry",
+    "topic": "Management products",
+    "question": "A report can provide a snapshot of information held in continuing project records.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answer": 0,
+    "why": "A report summarises a position for its audience; the underlying records continue to develop.",
+    "source": "Original practice based on supplied BM522 revision concepts"
+  },
+  {
+    "id": "clue-entry-6",
+    "level": "entry",
+    "topic": "Risk",
+    "question": "Transferring a threat to an insurer guarantees the project will experience no consequences if it occurs.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answer": 1,
+    "why": "Insurance may cover some financial consequences while disruption and other effects remain.",
+    "source": "Original practice based on supplied BM522 revision concepts"
+  },
+  {
+    "id": "clue-entry-7",
+    "level": "entry",
+    "topic": "Screening",
+    "question": "Net present value compares an investment with future cash flows adjusted for their timing.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answer": 0,
+    "why": "NPV discounts forecast cash flows and deducts the investment. Forecast assumptions still matter.",
+    "source": "Original practice based on supplied BM522 revision concepts"
+  },
+  {
+    "id": "clue-entry-8",
+    "level": "entry",
+    "topic": "Scheduling",
+    "question": "The PERT expected-duration formula gives the most-likely estimate four times the weight of either extreme estimate.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answer": 0,
+    "why": "The formula is (optimistic + 4 × most likely + pessimistic) ÷ 6.",
+    "source": "Original practice based on supplied BM522 revision concepts"
+  },
+  {
+    "id": "clue-entry-9",
+    "level": "entry",
+    "topic": "Stakeholders",
+    "question": "Stakeholder influence must remain unchanged after the first power-interest grid is prepared.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answer": 1,
+    "why": "Influence, interests and engagement can change. Reassess the analysis and communication needs.",
+    "source": "Original practice based on supplied BM522 revision concepts"
+  },
+  {
+    "id": "clue-entry-10",
+    "level": "entry",
+    "topic": "Quality",
+    "question": "Marking a requirement as a MoSCoW Must automatically defines a measurable acceptance test.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answer": 1,
+    "why": "Priority and acceptance are different. Specify separately how the requirement will be tested and accepted.",
+    "source": "Original practice based on supplied BM522 revision concepts"
+  },
+  {
+    "id": "clue-entry-11",
+    "level": "entry",
+    "topic": "Costs",
+    "question": "Earned-value cost performance index is calculated as earned value divided by actual cost.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answer": 0,
+    "why": "CPI = EV ÷ AC. An index below 1 indicates poorer cost efficiency than planned.",
+    "source": "Original practice based on supplied BM522 revision concepts"
+  },
+  {
+    "id": "clue-entry-12",
+    "level": "entry",
+    "topic": "Governance",
+    "question": "Governance can delegate daily management while retaining accountability for investment decisions.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answer": 0,
+    "why": "The governing level sets boundaries and reviews key decisions; the project manager coordinates daily work.",
+    "source": "Original practice based on supplied BM522 revision concepts"
+  },
+  {
+    "id": "clue-intermediate-1",
+    "level": "intermediate",
+    "topic": "Methods",
+    "question": "A building fit-out has agreed requirements and expensive late design changes. Which delivery approach is a reasonable starting point?",
+    "options": [
+      "Uncontrolled feature changes after every conversation",
+      "Omit planning because the requirements are agreed",
+      "Sequential delivery with agreed requirements and controlled changes"
+    ],
+    "answer": 2,
+    "why": "Sequential delivery can suit relatively stable requirements. It still needs risk management and controlled handling of change.",
+    "source": "Original practice based on supplied BM522 revision concepts"
+  },
+  {
+    "id": "clue-intermediate-2",
+    "level": "intermediate",
+    "topic": "Scope",
+    "question": "A festival team has a WBS listing all agreed deliverables and work. What further information is needed to create a schedule?",
+    "options": [
+      "Only the final ticket price",
+      "Dependencies, activity estimates and resource availability",
+      "Only a new name for the WBS"
+    ],
+    "answer": 1,
+    "why": "A WBS structures the agreed work. Scheduling also needs sequencing, duration estimates and resource information.",
+    "source": "Original practice based on supplied BM522 revision concepts"
+  },
+  {
+    "id": "clue-intermediate-3",
+    "level": "intermediate",
+    "topic": "Themes",
+    "question": "An IT project needs a consistent way to record uncertainty, assign responses and monitor exposure. Which course PRINCE2 theme is most directly relevant?",
+    "options": [
+      "Risk",
+      "Organisation only",
+      "Quality only"
+    ],
+    "answer": 0,
+    "why": "The Risk theme addresses uncertainty. Other themes interact with it, but they do not replace risk management.",
+    "source": "Original practice based on supplied BM522 revision concepts"
+  },
+  {
+    "id": "clue-intermediate-4",
+    "level": "intermediate",
+    "topic": "Principles",
+    "question": "Before estimating work, an app team agrees what its booking confirmation must contain and how it will be checked. Which principle is most directly illustrated?",
+    "options": [
+      "Manage by exception only",
+      "Learn from experience only",
+      "Focus on products"
+    ],
+    "answer": 2,
+    "why": "Agreeing the product and quality criteria gives planning a clear target instead of starting with activities alone.",
+    "source": "Original practice based on supplied BM522 revision concepts"
+  },
+  {
+    "id": "clue-intermediate-5",
+    "level": "intermediate",
+    "topic": "Management products",
+    "question": "Which item is most suitable for a regular summary of project progress sent by the Project Manager to the Project Board?",
+    "options": [
+      "A Product Description containing only one product’s criteria",
+      "Highlight Report",
+      "Daily Log as an unfiltered replacement for all reporting"
+    ],
+    "answer": 1,
+    "why": "A Highlight Report communicates progress and significant information at the agreed reporting interval.",
+    "source": "Original practice based on supplied BM522 revision concepts"
+  },
+  {
+    "id": "clue-intermediate-6",
+    "level": "intermediate",
+    "topic": "Risk",
+    "question": "Which risk description most clearly identifies cause, uncertain event and effect?",
+    "options": [
+      "Because the supplier has limited stock, hardware delivery may be delayed, which could postpone installation",
+      "Hardware is bad",
+      "The project might have issues"
+    ],
+    "answer": 0,
+    "why": "The first description links a cause, a possible event and an objective that could be affected.",
+    "source": "Original practice based on supplied BM522 revision concepts"
+  },
+  {
+    "id": "clue-intermediate-7",
+    "level": "intermediate",
+    "topic": "Screening",
+    "question": "All other criteria are satisfactory. A project has a positive NPV at the organisation’s agreed discount rate. What does this indicate financially?",
+    "options": [
+      "The forecasts are guaranteed to be achieved",
+      "Non-financial and regulatory checks are unnecessary",
+      "Forecast discounted inflows exceed the investment under the stated assumptions"
+    ],
+    "answer": 2,
+    "why": "Positive NPV supports the financial case under its assumptions. It does not remove uncertainty or other selection criteria.",
+    "source": "Original practice based on supplied BM522 revision concepts"
+  },
+  {
+    "id": "clue-intermediate-8",
+    "level": "intermediate",
+    "topic": "Scheduling",
+    "question": "PERT estimates are optimistic 2 days, most likely 5 days and pessimistic 8 days. What is the expected duration?",
+    "options": [
+      "15 days",
+      "5 days",
+      "6 days"
+    ],
+    "answer": 1,
+    "why": "(2 + 4 × 5 + 8) ÷ 6 = 30 ÷ 6 = 5 days. The result is an estimate, not a guaranteed completion time.",
+    "source": "Original practice based on supplied BM522 revision concepts"
+  },
+  {
+    "id": "clue-intermediate-9",
+    "level": "intermediate",
+    "topic": "Stakeholders",
+    "question": "A regulator has high power but limited interest in routine project detail. What is a sensible starting approach in a power-interest grid?",
+    "options": [
+      "Keep satisfied with relevant compliance information and required decisions",
+      "Ignore the regulator entirely",
+      "Send every internal working message regardless of need"
+    ],
+    "answer": 0,
+    "why": "Keep powerful stakeholders appropriately satisfied. Adapt the communication to actual duties and information needs.",
+    "source": "Original practice based on supplied BM522 revision concepts"
+  },
+  {
+    "id": "clue-intermediate-10",
+    "level": "intermediate",
+    "topic": "Quality",
+    "question": "What is the main purpose of a fishbone diagram in investigating recurring defects?",
+    "options": [
+      "Prove a cause without collecting evidence",
+      "Replace all product acceptance tests",
+      "Organise possible causes for investigation"
+    ],
+    "answer": 2,
+    "why": "It structures possible causes. Investigation and evidence are still needed before drawing conclusions or choosing corrective action.",
+    "source": "Original practice based on supplied BM522 revision concepts"
+  },
+  {
+    "id": "clue-intermediate-11",
+    "level": "intermediate",
+    "topic": "Costs",
+    "question": "Earned value is £8,000 and actual cost is £10,000. What is the earned-value cost variance?",
+    "options": [
+      "£18,000",
+      "−£2,000",
+      "£2,000"
+    ],
+    "answer": 1,
+    "why": "CV = EV − AC = £8,000 − £10,000 = −£2,000. The negative value indicates an unfavourable cost position.",
+    "source": "Original practice based on supplied BM522 revision concepts"
+  },
+  {
+    "id": "clue-intermediate-12",
+    "level": "intermediate",
+    "topic": "Governance",
+    "question": "Which statement best distinguishes a PMO from a Project Board?",
+    "options": [
+      "A PMO supports projects according to its mandate; a board holds the defined project governance authority",
+      "Every PMO automatically replaces the Project Board",
+      "The Project Board must personally complete every delivery task"
+    ],
+    "answer": 0,
+    "why": "A PMO’s duties vary. Decision authority must be explicitly defined rather than assumed from an organisational title.",
+    "source": "Original practice based on supplied BM522 revision concepts"
+  },
+  {
+    "id": "clue-advanced-1",
+    "level": "advanced",
+    "topic": "Methods",
+    "question": "An app project has a fixed funding limit, but users expect priorities to evolve. Which arrangement is most defensible?",
+    "options": [
+      "Promise unlimited scope within the same budget because the team uses Scrum",
+      "Avoid user feedback so that no priorities can change",
+      "Set the budget boundary, prioritise the backlog and review delivered value, making scope trade-offs explicit"
+    ],
+    "answer": 2,
+    "why": "An adaptive approach can work within a fixed funding boundary. It does not remove the need to prioritise scope and make realistic commitments.",
+    "source": "Original practice based on supplied BM522 revision concepts"
+  },
+  {
+    "id": "clue-advanced-2",
+    "level": "advanced",
+    "topic": "Scope",
+    "question": "An approved scope change is expected to reduce manual work without changing the finish date. What should the decision record contain?",
+    "options": [
+      "No record because the finish date is unchanged",
+      "The assessed effects, approval authority and necessary baseline updates",
+      "A compulsory statement that time and cost must both increase"
+    ],
+    "answer": 1,
+    "why": "Document the actual impact and authorised decision. Scope changes require control even when some performance targets stay the same.",
+    "source": "Original practice based on supplied BM522 revision concepts"
+  },
+  {
+    "id": "clue-advanced-3",
+    "level": "advanced",
+    "topic": "Themes",
+    "question": "A weekly report shows that completed features are on schedule, but users now need different functionality to gain the expected benefit. Which response best connects PRINCE2 themes?",
+    "options": [
+      "Review the Business Case and assess the proposed change while reporting its effects on plans and progress",
+      "Declare success from the schedule alone",
+      "Change the baseline without considering costs or benefits"
+    ],
+    "answer": 0,
+    "why": "Themes interact: progress evidence, changing requirements and business justification inform the same decision. Schedule achievement alone is insufficient.",
+    "source": "Original practice based on supplied BM522 revision concepts"
+  },
+  {
+    "id": "clue-advanced-4",
+    "level": "advanced",
+    "topic": "Tailoring",
+    "question": "A small project assigns the Project Manager to perform the Project Board’s independent Project Assurance on their own management. What should be reconsidered?",
+    "options": [
+      "Whether a longer report can replace independence",
+      "Whether accountability can be removed to save time",
+      "Assurance independence while keeping the arrangement proportionate"
+    ],
+    "answer": 2,
+    "why": "Tailoring can simplify roles and records, but Project Assurance must remain independent of the management work being assured.",
+    "source": "Original practice based on supplied BM522 revision concepts"
+  },
+  {
+    "id": "clue-advanced-5",
+    "level": "advanced",
+    "topic": "Management products",
+    "question": "A manager updates the latest Project Plan after an authorised change and deletes all evidence of the previously approved version. What is the weakness?",
+    "options": [
+      "A Highlight Report makes every earlier approval unnecessary",
+      "The authorisation history and baseline traceability are lost",
+      "Keeping only the newest file always proves correct change control"
+    ],
+    "answer": 1,
+    "why": "Maintain controlled versions and decision history so that approved changes and the original commitments can be traced.",
+    "source": "Original practice based on supplied BM522 revision concepts"
+  },
+  {
+    "id": "clue-advanced-6",
+    "level": "advanced",
+    "topic": "Risk",
+    "question": "A backup supplier reduces the risk of late delivery but creates a new risk of incompatible components. How should this be handled?",
+    "options": [
+      "Monitor the remaining delay risk and record the new compatibility risk created by the response",
+      "Close every risk because a response exists",
+      "Describe the compatibility risk as a benefit already achieved"
+    ],
+    "answer": 0,
+    "why": "Residual risk remains after a response; secondary risk is created by the response. Both require appropriate assessment and ownership.",
+    "source": "Original practice based on supplied BM522 revision concepts"
+  },
+  {
+    "id": "clue-advanced-7",
+    "level": "advanced",
+    "topic": "Screening",
+    "question": "An investment’s base-case NPV is positive but becomes strongly negative if user adoption is modestly lower. What should decision makers do?",
+    "options": [
+      "Treat the positive base case as a guarantee",
+      "Hide the downside scenario to simplify approval",
+      "Test sensitivity, assess adoption evidence and compare options before deciding"
+    ],
+    "answer": 2,
+    "why": "Sensitivity analysis reveals reliance on uncertain assumptions. A decision should consider downside exposure and supporting evidence.",
+    "source": "Original practice based on supplied BM522 revision concepts"
+  },
+  {
+    "id": "clue-advanced-8",
+    "level": "advanced",
+    "topic": "Scheduling",
+    "question": "Two tasks can overlap logically, but both need the only specialist available. What is the best scheduling response?",
+    "options": [
+      "Keep both dates and count the specialist twice",
+      "Consider resource constraints and level or resequence the work, then reassess the completion date",
+      "Assume logical overlap guarantees simultaneous delivery"
+    ],
+    "answer": 1,
+    "why": "A logically valid network may still be infeasible with available resources. Resource levelling can affect the schedule and critical work.",
+    "source": "Original practice based on supplied BM522 revision concepts"
+  },
+  {
+    "id": "clue-advanced-9",
+    "level": "advanced",
+    "topic": "Stakeholders",
+    "question": "Residents initially had little influence over a festival project. Their new campaign now attracts council attention. What should the team do?",
+    "options": [
+      "Reassess influence and concerns, then adapt engagement and escalation arrangements",
+      "Keep the original grid unchanged until closure",
+      "Remove the residents because their influence was previously low"
+    ],
+    "answer": 0,
+    "why": "Stakeholder analysis is dynamic. New influence and concerns should inform proportionate, two-way engagement.",
+    "source": "Original practice based on supplied BM522 revision concepts"
+  },
+  {
+    "id": "clue-advanced-10",
+    "level": "advanced",
+    "topic": "Quality",
+    "question": "A product passes all specified tests, but the named approver has not approved it and the customer has not accepted the project product. What is the strongest conclusion?",
+    "options": [
+      "Testing automatically substitutes for every approval",
+      "The team may record customer acceptance on the customer’s behalf",
+      "Testing evidence exists, but required approval and acceptance decisions still need to be completed"
+    ],
+    "answer": 2,
+    "why": "Quality checks, product approval and acceptance are distinct. Obtain decisions from the authorised people rather than assuming one proves all three.",
+    "source": "Original practice based on supplied BM522 revision concepts"
+  },
+  {
+    "id": "clue-advanced-11",
+    "level": "advanced",
+    "topic": "Costs",
+    "question": "PV is £120,000, EV is £80,000 and AC is £100,000. Which interpretation is correct?",
+    "options": [
+      "Spending below PV proves the project is on budget and on schedule",
+      "CPI = 0.80 and SPI ≈ 0.67: poorer cost efficiency and less earned progress than planned",
+      "CPI = 1.25 and SPI = 1.50: ahead on both measures"
+    ],
+    "answer": 1,
+    "why": "CPI = EV ÷ AC = 0.80. SPI = EV ÷ PV ≈ 0.67. Interpret work achieved as well as spending; investigate causes and forecasts.",
+    "source": "Original practice based on supplied BM522 revision concepts"
+  },
+  {
+    "id": "clue-advanced-12",
+    "level": "advanced",
+    "topic": "Governance",
+    "question": "A Project Board forecasts that a project-level tolerance set by corporate management will be exceeded. What is the appropriate response?",
+    "options": [
+      "Refer the forecast and decision options to the authority above the board",
+      "Expand its own delegated tolerance without referral",
+      "Wait until the overspend is final before mentioning it"
+    ],
+    "answer": 0,
+    "why": "The board operates within delegated authority. A forecast project-level exception needs referral to the level that set those limits.",
+    "source": "Original practice based on supplied BM522 revision concepts"
   }
 ]
