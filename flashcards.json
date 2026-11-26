@@ -1,0 +1,234 @@
+[
+  {
+    "id": "bm-extra-1",
+    "topic": "management",
+    "question": "What makes a useful objective?",
+    "answer": "A clear result with a measure and a deadline.",
+    "example": "A manager aims to reduce average waiting time to five minutes by June.",
+    "diagram": [
+      "Result",
+      "Measure",
+      "Deadline"
+    ],
+    "deck": "business"
+  },
+  {
+    "id": "bm-extra-2",
+    "topic": "management",
+    "question": "Why delegate responsibility?",
+    "answer": "To allocate work to appropriate people while keeping accountability clear.",
+    "example": "A shift leader manages the queue; the manager checks results.",
+    "diagram": [
+      "Agree",
+      "Delegate",
+      "Review"
+    ],
+    "deck": "business"
+  },
+  {
+    "id": "bm-extra-3",
+    "topic": "management",
+    "question": "Does controlling mean blaming people?",
+    "answer": "No. It means comparing results with plans and deciding what to improve.",
+    "example": "An inaccurate forecast may require a better process.",
+    "diagram": [
+      "Plan",
+      "Evidence",
+      "Improve"
+    ],
+    "deck": "business"
+  },
+  {
+    "id": "bm-extra-4",
+    "topic": "marketing",
+    "question": "What is a customer segment?",
+    "answer": "A group of customers with relevant needs or characteristics in common.",
+    "example": "Commuters may want collection before their train.",
+    "diagram": [
+      "Customers",
+      "Shared needs",
+      "Segment"
+    ],
+    "deck": "business"
+  },
+  {
+    "id": "bm-extra-5",
+    "topic": "marketing",
+    "question": "What is positioning?",
+    "answer": "How an offering should be understood relative to alternatives.",
+    "example": "Position a café as convenient rather than the cheapest.",
+    "diagram": [
+      "Customer",
+      "Alternatives",
+      "Distinctive benefit"
+    ],
+    "deck": "business"
+  },
+  {
+    "id": "bm-extra-6",
+    "topic": "marketing",
+    "question": "Why must the 4Ps work together?",
+    "answer": "Conflicting choices weaken the offer and confuse customers.",
+    "example": "Premium pricing needs suitable quality and communication.",
+    "diagram": [
+      "Offer",
+      "Price",
+      "Channel",
+      "Message"
+    ],
+    "deck": "business"
+  },
+  {
+    "id": "bm-extra-7",
+    "topic": "economics",
+    "question": "What is opportunity cost?",
+    "answer": "The value of the best alternative given up when choosing.",
+    "example": "An hour used on marketing cannot also be used serving customers.",
+    "diagram": [
+      "Choice",
+      "Alternative forgone"
+    ],
+    "deck": "business"
+  },
+  {
+    "id": "bm-extra-8",
+    "topic": "economics",
+    "question": "What distinguishes a shortage from a surplus?",
+    "answer": "A shortage means demand exceeds supply at that price; a surplus means supply exceeds demand.",
+    "example": "Too few prepared lunches can leave buyers waiting.",
+    "diagram": [
+      "Demand > Supply",
+      "Shortage"
+    ],
+    "deck": "business"
+  },
+  {
+    "id": "bm-extra-9",
+    "topic": "economics",
+    "question": "Why state other things equal?",
+    "answer": "It isolates the price effect while holding other influences unchanged.",
+    "example": "Advertising may otherwise increase sales despite a price rise.",
+    "diagram": [
+      "Hold influences fixed",
+      "Compare price effect"
+    ],
+    "deck": "business"
+  },
+  {
+    "id": "bm-extra-10",
+    "topic": "operations",
+    "question": "What is a bottleneck?",
+    "answer": "A step whose limited capacity restricts the process.",
+    "example": "One payment terminal may hold up several food servers.",
+    "diagram": [
+      "Many orders",
+      "Narrow step",
+      "Queue"
+    ],
+    "deck": "business"
+  },
+  {
+    "id": "bm-extra-11",
+    "topic": "operations",
+    "question": "Why measure more than output volume?",
+    "answer": "Volume alone may hide waste, delays or poor quality.",
+    "example": "A café tracks drinks made, errors and waiting time.",
+    "diagram": [
+      "Volume",
+      "Quality",
+      "Time"
+    ],
+    "deck": "business"
+  },
+  {
+    "id": "bm-extra-12",
+    "topic": "operations",
+    "question": "What is process improvement?",
+    "answer": "A deliberate change tested against evidence of performance.",
+    "example": "Trial a separate collection point and compare queue times.",
+    "diagram": [
+      "Measure",
+      "Test change",
+      "Compare"
+    ],
+    "deck": "business"
+  },
+  {
+    "id": "bm-extra-13",
+    "topic": "strategy",
+    "question": "What is a strategic trade-off?",
+    "answer": "Choosing a priority while accepting what that choice limits.",
+    "example": "Very low prices may leave less money for personal service.",
+    "diagram": [
+      "Priority",
+      "Benefit",
+      "Sacrifice"
+    ],
+    "deck": "business"
+  },
+  {
+    "id": "bm-extra-14",
+    "topic": "strategy",
+    "question": "Why match strategy to resources?",
+    "answer": "A business needs the skills, time and funding to carry out its choices.",
+    "example": "Specialist service requires trained staff.",
+    "diagram": [
+      "Choice",
+      "Resources",
+      "Feasible action"
+    ],
+    "deck": "business"
+  },
+  {
+    "id": "bm-extra-15",
+    "topic": "strategy",
+    "question": "What makes a recommendation testable?",
+    "answer": "A named action, responsibility, timing and measure of success.",
+    "example": "The café manager trials pre-ordering for four weeks and measures waiting time.",
+    "diagram": [
+      "Action",
+      "Owner",
+      "Deadline",
+      "Measure"
+    ],
+    "deck": "business"
+  },
+  {
+    "id": "bm-extra-16",
+    "topic": "projects",
+    "question": "What is an acceptance criterion?",
+    "answer": "A condition used to judge whether a result is acceptable.",
+    "example": "The website must allow a user to complete a test order.",
+    "diagram": [
+      "Requirement",
+      "Test",
+      "Acceptance"
+    ],
+    "deck": "business"
+  },
+  {
+    "id": "bm-extra-17",
+    "topic": "projects",
+    "question": "How does a risk differ from an issue?",
+    "answer": "A risk is uncertain; an issue already needs attention.",
+    "example": "Possible supplier delay is a risk; a missed delivery is an issue.",
+    "diagram": [
+      "May happen",
+      "Already needs attention"
+    ],
+    "deck": "business"
+  },
+  {
+    "id": "bm-extra-18",
+    "topic": "projects",
+    "question": "Why record lessons during a project?",
+    "answer": "To improve remaining work and help future projects.",
+    "example": "Fix a testing problem now rather than waiting until closure.",
+    "diagram": [
+      "Notice",
+      "Learn",
+      "Apply"
+    ],
+    "deck": "business"
+  }
+]

@@ -1,0 +1,467 @@
+[
+  {
+    "id": "intermediate-1",
+    "level": "intermediate",
+    "topic": "Risk",
+    "question": "A supplier warns that a delivery might arrive late next month. What should the manager record first?",
+    "options": [
+      "A risk to assess and assign",
+      "An actual delivery failure",
+      "A completed change request"
+    ],
+    "answer": 0,
+    "why": "The delivery has not yet failed. Record the uncertainty and consider likelihood, impact, an owner and responses.",
+    "source": "prince",
+    "prompt": "Explain why the strongest alternative is less suitable."
+  },
+  {
+    "id": "intermediate-2",
+    "level": "intermediate",
+    "topic": "Issues",
+    "question": "An agreed product cannot meet a required specification. What has been identified?",
+    "options": [
+      "An off-specification",
+      "A possible future threat only",
+      "A new user requirement"
+    ],
+    "answer": 0,
+    "why": "A requirement will not be met. Capture and assess the off-specification rather than silently changing the requirement.",
+    "source": "prince",
+    "prompt": "Explain why the strongest alternative is less suitable."
+  },
+  {
+    "id": "intermediate-3",
+    "level": "intermediate",
+    "topic": "Business case",
+    "question": "A new system is delivered, staff use it to schedule visits differently, and missed visits fall. Which part is the benefit?",
+    "options": [
+      "The measurable reduction in missed visits",
+      "The installed system",
+      "The change in scheduling behaviour"
+    ],
+    "answer": 0,
+    "why": "The system is an output. Changed working is an outcome. The valued measurable improvement is the benefit.",
+    "source": "prince",
+    "prompt": "Explain why the strongest alternative is less suitable."
+  },
+  {
+    "id": "intermediate-4",
+    "level": "intermediate",
+    "topic": "Quality",
+    "question": "The team needs to know how a finished product will be judged. What should be agreed?",
+    "options": [
+      "Measurable quality criteria and checking responsibilities",
+      "Only a completion date",
+      "Only the project budget"
+    ],
+    "answer": 0,
+    "why": "A deadline alone cannot show whether a product meets requirements. Agree how quality will be checked and by whom.",
+    "source": "prince",
+    "prompt": "Explain why the strongest alternative is less suitable."
+  },
+  {
+    "id": "intermediate-5",
+    "level": "intermediate",
+    "topic": "Stakeholders",
+    "question": "Staff who will use a new tool say that no one has asked about their needs. What is the most useful response?",
+    "options": [
+      "Engage the users and review their requirements",
+      "Communicate only with the sponsor",
+      "Wait until launch to seek their views"
+    ],
+    "answer": 0,
+    "why": "Users can reveal practical needs and adoption barriers early. Sponsor approval does not replace user engagement.",
+    "source": "prince",
+    "prompt": "Explain why the strongest alternative is less suitable."
+  },
+  {
+    "id": "intermediate-6",
+    "level": "intermediate",
+    "topic": "Processes",
+    "question": "Before investing in detailed project initiation, the organisation wants a high-level check that the idea is viable. Which PRINCE2 process fits?",
+    "options": [
+      "Starting up a project",
+      "Managing product delivery",
+      "Closing a project"
+    ],
+    "answer": 0,
+    "why": "Starting up checks prerequisites and whether the idea is worth initiating. Detailed initiation comes afterwards.",
+    "source": "prince",
+    "prompt": "Explain why the strongest alternative is less suitable."
+  },
+  {
+    "id": "intermediate-7",
+    "level": "intermediate",
+    "topic": "Processes",
+    "question": "A team manager agrees what to deliver in a work package and then produces it. Which process covers the team’s work?",
+    "options": [
+      "Managing product delivery",
+      "Directing a project",
+      "Starting up a project"
+    ],
+    "answer": 0,
+    "why": "This process links the team manager and project manager through accepting, executing and delivering work packages.",
+    "source": "prince",
+    "prompt": "Explain why the strongest alternative is less suitable."
+  },
+  {
+    "id": "intermediate-8",
+    "level": "intermediate",
+    "topic": "Processes",
+    "question": "A project manager prepares information to let the board decide whether to authorise the next stage. Which process fits?",
+    "options": [
+      "Managing a stage boundary",
+      "Closing a project",
+      "Managing product delivery"
+    ],
+    "answer": 0,
+    "why": "Stage-boundary work reviews performance and prepares the next stage plan for the board’s decision.",
+    "source": "prince",
+    "prompt": "Explain why the strongest alternative is less suitable."
+  },
+  {
+    "id": "intermediate-9",
+    "level": "intermediate",
+    "topic": "Principles",
+    "question": "Before approving the next stage, the board asks whether benefits still justify costs and risks. Which principle is being applied?",
+    "options": [
+      "Ensure continued business justification",
+      "Focus on products only",
+      "Learn from experience only"
+    ],
+    "answer": 0,
+    "why": "Justification must remain valid throughout the project, rather than being checked only at the start.",
+    "source": "prince",
+    "prompt": "Explain why the strongest alternative is less suitable."
+  },
+  {
+    "id": "intermediate-10",
+    "level": "intermediate",
+    "topic": "Lessons",
+    "question": "A similar project failed because user training started too late. What should this team do?",
+    "options": [
+      "Use the lesson to plan training and keep reviewing learning",
+      "Archive the lesson without changing the plan",
+      "Assume a different team cannot face the same problem"
+    ],
+    "answer": 0,
+    "why": "Learning has value when it influences decisions and delivery. Lessons should be sought and applied throughout the project.",
+    "source": "prince",
+    "prompt": "Explain why the strongest alternative is less suitable."
+  },
+  {
+    "id": "intermediate-11",
+    "level": "intermediate",
+    "topic": "Planning",
+    "question": "A design task must finish before installation begins. What does this relationship show?",
+    "options": [
+      "A task dependency",
+      "A project benefit",
+      "A stakeholder category"
+    ],
+    "answer": 0,
+    "why": "One task relies on another. Dependencies affect scheduling and can influence the critical path.",
+    "source": "prince",
+    "prompt": "Explain why the strongest alternative is less suitable."
+  },
+  {
+    "id": "intermediate-12",
+    "level": "intermediate",
+    "topic": "Change control",
+    "question": "A customer requests an extra feature after the requirements were agreed. What should happen before implementation?",
+    "options": [
+      "Capture and assess the request, then obtain the appropriate decision",
+      "Add it immediately because a customer asked",
+      "Remove the original requirements"
+    ],
+    "answer": 0,
+    "why": "Assess effects on scope, quality, time, cost, benefits and risk. The authorised role decides within agreed limits.",
+    "source": "prince",
+    "prompt": "Explain why the strongest alternative is less suitable."
+  },
+  {
+    "id": "intermediate-13",
+    "level": "intermediate",
+    "topic": "Selection",
+    "question": "A team compares project ideas against a list of required conditions. Which screening model is this?",
+    "options": [
+      "A checklist model",
+      "A risk register",
+      "A quality inspection"
+    ],
+    "answer": 0,
+    "why": "A checklist supports structured screening. Agree what each condition means to reduce inconsistent judgements.",
+    "source": "selection",
+    "prompt": "Explain why the strongest alternative is less suitable."
+  },
+  {
+    "id": "intermediate-14",
+    "level": "intermediate",
+    "topic": "Selection",
+    "question": "A selection panel gives safety greater importance than convenience. Which method makes that preference explicit?",
+    "options": [
+      "A weighted scoring model",
+      "A list with every criterion treated equally",
+      "Selecting whichever idea arrived first"
+    ],
+    "answer": 0,
+    "why": "Weights represent relative importance. Apply a consistent scoring scale and compare the totals.",
+    "source": "selection",
+    "prompt": "Explain why the strongest alternative is less suitable."
+  },
+  {
+    "id": "intermediate-15",
+    "level": "intermediate",
+    "topic": "Closure",
+    "question": "The deliverables are accepted. What is still needed before controlled closure?",
+    "options": [
+      "Confirm handover and responsibility for outstanding actions and benefit reviews",
+      "Disband everyone immediately without handover",
+      "Carry out every future benefit review before closing"
+    ],
+    "answer": 0,
+    "why": "Closure checks acceptance and handover. Benefits may be measured after the project, with responsibility agreed.",
+    "source": "prince",
+    "prompt": "Explain why the strongest alternative is less suitable."
+  },
+  {
+    "id": "advanced-1",
+    "level": "advanced",
+    "topic": "Progress",
+    "question": "A stage should finish in ten weeks, with one week of time tolerance. A forecast now shows twelve weeks. What is the best action?",
+    "options": [
+      "Escalate the forecast breach to the project board through an exception report",
+      "Wait until week twelve to confirm the delay",
+      "Approve a new stage baseline without authority",
+      "Tell only the team manager because delivery has not ended"
+    ],
+    "answer": 0,
+    "why": "Management by exception responds to a forecast breach, not just an actual one. The board needs timely options and impacts.",
+    "source": "prince",
+    "prompt": "Explain who has authority at the stage level and why waiting increases risk."
+  },
+  {
+    "id": "advanced-2",
+    "level": "advanced",
+    "topic": "Business case",
+    "question": "Half the budget is spent, but a regulatory change removes most expected benefits. What should guide the continuation decision?",
+    "options": [
+      "Reassess remaining benefits, costs, risks and options, including stopping",
+      "Continue because the original budget was approved",
+      "Continue because past expenditure must be recovered",
+      "Ignore benefits until every output is finished"
+    ],
+    "answer": 0,
+    "why": "Past expenditure cannot by itself justify further investment. Continued justification concerns the worthwhile use of remaining resources.",
+    "source": "prince",
+    "prompt": "Give one condition that would support stopping and one that would support continuing."
+  },
+  {
+    "id": "advanced-3",
+    "level": "advanced",
+    "topic": "Stakeholders",
+    "question": "A technically sound care-record system is delivered, but staff do not use it and errors stay unchanged. Which response best addresses the gap?",
+    "options": [
+      "Investigate barriers, support adoption and review whether the expected benefits are achievable",
+      "Declare benefits achieved because delivery is complete",
+      "Reduce quality criteria retrospectively",
+      "Replace the benefits measure with the number of screens built"
+    ],
+    "answer": 0,
+    "why": "Output delivery alone does not guarantee changed behaviour or benefits. Engage users and assess adoption, training and workflow.",
+    "source": "prince",
+    "prompt": "Distinguish output, outcome and benefit in this example."
+  },
+  {
+    "id": "advanced-4",
+    "level": "advanced",
+    "topic": "Risk",
+    "question": "A threat has a 30% chance of causing a £20,000 loss. An effective response costs £2,000 and reduces the chance to 10%. On expected financial value alone, what is the net saving?",
+    "options": [
+      "£2,000",
+      "£4,000",
+      "£6,000",
+      "£8,000"
+    ],
+    "answer": 0,
+    "why": "Before: 0.30 × £20,000 = £6,000. After: 0.10 × £20,000 + £2,000 = £4,000. Net saving is £2,000. This is an illustrative calculation, not a complete risk decision.",
+    "source": "prince",
+    "prompt": "Name a non-financial impact that could also change the decision."
+  },
+  {
+    "id": "advanced-5",
+    "level": "advanced",
+    "topic": "Change control",
+    "question": "A requested feature fits the available change budget but would reduce an agreed safety requirement. What is the strongest response?",
+    "options": [
+      "Assess all affected objectives and seek the authorised decision before changing the baseline",
+      "Approve it because there is money available",
+      "Ask the supplier to hide the change in a report",
+      "Assume budget authority overrides every quality constraint"
+    ],
+    "answer": 0,
+    "why": "Available funding does not remove quality, risk or compliance constraints. Assess the whole impact and apply the agreed authority limits.",
+    "source": "prince",
+    "prompt": "Explain why staying within cost tolerance is insufficient here."
+  },
+  {
+    "id": "advanced-6",
+    "level": "advanced",
+    "topic": "Quality",
+    "question": "A supplier’s item passes its internal tests but fails the customer’s agreed acceptance criteria. What should the project do?",
+    "options": [
+      "Record the mismatch, assess its impact and resolve it against the agreed requirements",
+      "Accept it automatically because the supplier tested it",
+      "Delete the acceptance criteria after delivery",
+      "Treat customer acceptance as unrelated to quality"
+    ],
+    "answer": 0,
+    "why": "Supplier checks and customer acceptance serve related but distinct purposes. Passing one check does not demonstrate that every agreed requirement is met.",
+    "source": "prince",
+    "prompt": "Suggest one way to prevent this mismatch earlier."
+  },
+  {
+    "id": "advanced-7",
+    "level": "advanced",
+    "topic": "Selection",
+    "question": "Two projects use scores out of five. Strategic fit has weight 60%, affordability 40%. A scores 4 and 2; B scores 3 and 4. Which has the higher weighted score?",
+    "options": [
+      "B: 3.4 compared with A: 3.2",
+      "A: 3.6 compared with B: 3.0",
+      "They tie at 3.0",
+      "A because its first score is higher"
+    ],
+    "answer": 0,
+    "why": "A = 0.6 × 4 + 0.4 × 2 = 3.2. B = 0.6 × 3 + 0.4 × 4 = 3.4. Weighted scores inform judgement rather than remove uncertainty.",
+    "source": "selection",
+    "prompt": "Explain how changing the weights could change the preferred project."
+  },
+  {
+    "id": "advanced-8",
+    "level": "advanced",
+    "topic": "Selection",
+    "question": "A project ranks first in a weighted score but fails a mandatory legal requirement. What is the best decision approach?",
+    "options": [
+      "Apply the mandatory constraint before relying on the ranking",
+      "Approve it because the score is highest",
+      "Remove the legal criterion after scoring",
+      "Average the legal failure against optional benefits"
+    ],
+    "answer": 0,
+    "why": "A high score cannot compensate for failing a mandatory condition. Distinguish essential constraints from desirable preferences.",
+    "source": "selection",
+    "prompt": "Give one example of a mandatory condition and one optional criterion."
+  },
+  {
+    "id": "advanced-9",
+    "level": "advanced",
+    "topic": "Planning",
+    "question": "Two parallel paths take 8 and 11 days. A two-day delay occurs on the 8-day path. With no other changes, what happens to the earliest finish?",
+    "options": [
+      "It stays at 11 days because the shorter path now takes 10",
+      "It rises to 13 days",
+      "It falls to 10 days",
+      "It rises to 19 days"
+    ],
+    "answer": 0,
+    "why": "The longer path still determines completion. The shorter path initially had three days of float under these simplified assumptions.",
+    "source": "prince",
+    "prompt": "What would happen if the shorter path were delayed by four days instead?"
+  },
+  {
+    "id": "advanced-10",
+    "level": "advanced",
+    "topic": "Methodology",
+    "question": "A team develops an unfamiliar app and expects user needs to evolve. Which approach is most defensible?",
+    "options": [
+      "Use iterative delivery and frequent feedback within suitable project governance",
+      "Fix every detailed requirement permanently before seeing any user feedback",
+      "Remove all planning because needs may change",
+      "Use identical controls regardless of scale and risk"
+    ],
+    "answer": 0,
+    "why": "Iteration can expose learning early. Tailor governance and controls to the project rather than assuming flexibility means no control.",
+    "source": "prince",
+    "prompt": "State two advantages and two limitations of your chosen approach for this project."
+  },
+  {
+    "id": "advanced-11",
+    "level": "advanced",
+    "topic": "Stakeholders",
+    "question": "A sponsor wants weekly financial summaries; users need short demonstrations and training updates. What should the communication approach do?",
+    "options": [
+      "Tailor content, frequency and channels to each stakeholder’s needs",
+      "Send everyone the full financial ledger every day",
+      "Use one channel and message for all stakeholders",
+      "Communicate only when a complaint arrives"
+    ],
+    "answer": 0,
+    "why": "Communication should support decisions and engagement. Different stakeholders need different levels of detail and opportunities to respond.",
+    "source": "prince",
+    "prompt": "Propose one communication method for each group and explain your choice."
+  },
+  {
+    "id": "advanced-12",
+    "level": "advanced",
+    "topic": "Processes",
+    "question": "The current stage is ending and the next stage plan looks attractive, but unresolved issues have weakened the business case. What should the manager provide to the board?",
+    "options": [
+      "An honest performance review, updated justification, issues and options alongside the next stage plan",
+      "Only the next stage schedule",
+      "Confirmation that stage completion guarantees continuation",
+      "A revised baseline showing all issues as resolved"
+    ],
+    "answer": 0,
+    "why": "A stage boundary is a decision point. The board needs sufficient evidence to decide whether and how to proceed.",
+    "source": "prince",
+    "prompt": "Identify two pieces of evidence that would influence the board’s decision."
+  },
+  {
+    "id": "advanced-13",
+    "level": "advanced",
+    "topic": "Risk",
+    "question": "A team documents threats but assigns no owners and never reviews response actions. What is the main weakness?",
+    "options": [
+      "Identification has not been turned into ongoing risk management",
+      "The risk register contains too much information",
+      "Every risk must be escalated directly to the business layer",
+      "The project should stop recording uncertainty"
+    ],
+    "answer": 0,
+    "why": "Risks need assessment, response planning, ownership and monitoring. A list alone does not control exposure.",
+    "source": "prince",
+    "prompt": "Describe one practical action to repair each of two weaknesses."
+  },
+  {
+    "id": "advanced-14",
+    "level": "advanced",
+    "topic": "Quality",
+    "question": "Repeated defects are found late in testing. Which action best combines immediate control with longer-term improvement?",
+    "options": [
+      "Correct the failed items and investigate the process causing repeated defects",
+      "Stop testing to reduce the reported defect count",
+      "Treat all defects as new customer requirements",
+      "Change the quality measure to count only completed items"
+    ],
+    "answer": 0,
+    "why": "Correcting products addresses current failures. Investigating causes and improving the process helps prevent recurrence.",
+    "source": "prince",
+    "prompt": "Give a quality tool you could use to explore causes and explain how it helps."
+  },
+  {
+    "id": "advanced-15",
+    "level": "advanced",
+    "topic": "Closure",
+    "question": "A booking system is accepted, but its expected cost savings will only be measurable in six months. What is the best closure arrangement?",
+    "options": [
+      "Agree operational ownership, review timing and responsibility for measuring the benefit",
+      "Keep the delivery project open indefinitely until every benefit is realised",
+      "Record the forecast saving as already achieved",
+      "Remove the saving because it cannot be measured today"
+    ],
+    "answer": 0,
+    "why": "Handover and later benefit measurement need clear responsibility. Forecast benefits should not be reported as achieved without evidence.",
+    "source": "prince",
+    "prompt": "State a suitable benefit measure and who should own its post-project review."
+  }
+]
