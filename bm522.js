@@ -1,0 +1,21 @@
+'use strict';
+(() => {
+  const el=id=>document.getElementById(id);
+  let data,run=[],at=0,done=false,ends=0,clock,score=0,answered=0;
+  state.longAnswers=state.longAnswers||{};
+  function end(reason){clearInterval(clock);ends=0;el('bmChoices').replaceChildren();el('bmNext').hidden=true;el('bmEnd').hidden=true;el('bmTimer').textContent='';el('bmQuestion').textContent='Practice complete';el('bmFeedback').className='';el('bmFeedback').textContent=`${reason} ${score} correct from ${answered} answered (${run.length} in this session). Unanswered questions are not counted as correct. Start again for a new shuffle.`;summary();}
+  function tick(){const s=Math.max(0,Math.ceil((ends-Date.now())/1000));el('bmTimer').textContent=`Time remaining ${Math.floor(s/60)}:${String(s%60).padStart(2,'0')}`;if(!s)end('60 minutes elapsed.');}
+  function render(){if(at>=run.length){end('All questions answered.');return;}done=false;const q=run[at];el('bmProgress').textContent=`Question ${at+1} of ${run.length} · supplied paper number ${q.number}${q.duplicateOf?' · repeated in the supplied paper':''}`;el('bmQuestion').innerHTML='<h2 style="white-space:pre-line">'+esc(q.question)+'</h2>';el('bmFeedback').textContent='';el('bmFeedback').className='';el('bmNext').hidden=true;el('bmChoices').replaceChildren();shuffle(q.options.map((text,index)=>({text,index}))).forEach(o=>{const b=document.createElement('button');b.type='button';b.textContent=o.text;b.onclick=()=>{if(done||!ends)return;if(Date.now()>=ends){end('60 minutes elapsed.');return;}done=true;answered++;const ok=o.index===q.answer;if(ok)score++;b.className=ok?'correct':'wrong';el('bmChoices').querySelectorAll('button').forEach(x=>{x.disabled=true;});el('bmFeedback').className=ok?'correct':'wrong';el('bmFeedback').textContent=(ok?'Correct. ':'Incorrect. Correct answer: '+q.options[q.answer]+'. ')+q.why;state.answers.push({id:q.id,correct:ok});state.answers=state.answers.slice(-10000);save();summary();el('bmNext').hidden=false;};el('bmChoices').append(b);});}
+  el('bmStart').onclick=()=>{if(ends&&!confirm('End this practice and start a new shuffled session?'))return;clearInterval(clock);run=shuffle(data.mcq.filter(q=>el('bmSet').value==='paper'||!q.duplicateOf));at=score=answered=0;ends=Date.now()+3600000;el('bmEnd').hidden=false;render();tick();clock=setInterval(tick,500);};
+  el('bmEnd').onclick=()=>{if(confirm('End this session and show your current score?'))end('Session ended.');};
+  el('bmNext').onclick=()=>{if(!done||!ends)return;at++;render();};
+  document.addEventListener('visibilitychange',()=>{if(ends)tick();});
+  el('bmDownload').onclick=()=>{if(!data)return;download('BM522_longer_answer_notes.txt',data.longAnswers.map((q,i)=>`${q.extra?'Extra practice':`Question ${i+1}`} · ${q.title}\n${q.question}\n\nMy notes:\n${state.longAnswers[q.id]||'(No notes yet)'}\n`).join('\n---\n\n'));};
+  fetch('./bm522.json').then(r=>{if(!r.ok)throw Error();return r.json();}).then(x=>{data=x;el('bmStart').disabled=false;
+    el('bmCards').innerHTML=data.mcq.filter(q=>!q.duplicateOf).map(q=>'<details><summary>Card '+q.number+': '+esc(q.question)+'</summary><p><strong>'+esc(q.options[q.answer])+'</strong></p><p>'+esc(q.why)+'</p></details>').join('');
+    for(const [i,q]of data.longAnswers.entries()){
+      const a=document.createElement('article');a.innerHTML='<h3>'+esc(q.extra?'Extra practice: '+q.title:`${i+1}. ${q.title}`)+'</h3><p>'+esc(q.question)+'</p><label for="bmNote-'+esc(q.id)+'">Your answer notes</label><textarea id="bmNote-'+esc(q.id)+'" rows="6" maxlength="100000"></textarea><details><summary>Reveal answer outline and examples</summary><ul>'+q.guidance.map(s=>'<li>'+esc(s)+'</li>').join('')+'</ul>'+(q.photoMarks?'<p><strong>Visible guidance in your photo:</strong> '+esc(q.photoMarks)+'</p>':'')+'</details>';
+      const input=a.querySelector('textarea');input.value=state.longAnswers[q.id]||'';input.oninput=()=>{state.longAnswers[q.id]=input.value;save();el('bmNoteStatus').textContent=el('saveState').textContent;};el('bmLong').append(a);
+    }
+  }).catch(()=>{el('bmFeedback').textContent='The BM522 revision set could not load. Reconnect and reload to finish downloading it.';el('bmDownload').disabled=true;});
+})();

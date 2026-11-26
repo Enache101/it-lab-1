@@ -1,0 +1,375 @@
+{
+  "title": "BM522 supplied revision paper",
+  "edition": "Older PRINCE2 terminology",
+  "answerStatus": "Study guidance, not an official answer key or marking scheme.",
+  "mcq": [
+    {
+      "id": "bm522-paper-1",
+      "number": 1,
+      "question": "Which product records any project outcomes perceived as negative by stakeholders?",
+      "options": [
+        "Business Case",
+        "Project Plan",
+        "Communication Management Strategy",
+        "Project Product Description"
+      ],
+      "answer": 0,
+      "why": "The Business Case records expected dis-benefits.",
+      "duplicateOf": null
+    },
+    {
+      "id": "bm522-paper-2",
+      "number": 2,
+      "question": "What is the definition of a project outcome?",
+      "options": [
+        "A measurable improvement that is perceived as an advantage by one or more stakeholders",
+        "The reason for the project",
+        "The result of the change derived from using the project’s outputs",
+        "The project’s specialist products"
+      ],
+      "answer": 2,
+      "why": "An output enables change; the resulting outcome may produce benefits.",
+      "duplicateOf": null
+    },
+    {
+      "id": "bm522-paper-3",
+      "number": 3,
+      "question": "Which is NOT a purpose of a Benefits Review Plan?",
+      "options": [
+        "Define the period over which the cost-benefit analysis will be based",
+        "Describe how to measure the performance of the project’s products in operational use",
+        "Define the scope, timing and ownership of the benefit reviews required",
+        "Describe how to measure and confirm any benefits that are to be realised after the project is closed"
+      ],
+      "answer": 0,
+      "why": "The investment appraisal belongs in the Business Case.",
+      "duplicateOf": null
+    },
+    {
+      "id": "bm522-paper-4",
+      "number": 4,
+      "question": "In what process is the authorisation to deliver the project’s products given?",
+      "options": [
+        "Starting up a project",
+        "Initiating a project",
+        "Managing a stage boundary",
+        "Directing a project"
+      ],
+      "answer": 3,
+      "why": "The board authorises delivery through Directing a Project.",
+      "duplicateOf": null
+    },
+    {
+      "id": "bm522-paper-5",
+      "number": 5,
+      "question": "Which is NOT a purpose of a Benefits Review Plan?",
+      "options": [
+        "Define the period over which the cost-benefit analysis will be based",
+        "Describe how to measure the performance of the project’s products in operational use",
+        "Define the scope, timing and ownership of the benefit reviews required",
+        "Describe how to measure and confirm any benefits that are to be realised after the project is closed"
+      ],
+      "answer": 0,
+      "why": "Duplicate of supplied question 3.",
+      "duplicateOf": "bm522-paper-3"
+    },
+    {
+      "id": "bm522-paper-6",
+      "number": 6,
+      "question": "What is an off-specification?",
+      "options": [
+        "A new requirement",
+        "A quality tolerance",
+        "A type of issue",
+        "A major risk"
+      ],
+      "answer": 2,
+      "why": "An agreed requirement is missing or cannot be met.",
+      "duplicateOf": null
+    },
+    {
+      "id": "bm522-paper-7",
+      "number": 7,
+      "question": "Which is a type of issue?",
+      "options": [
+        "A lesson",
+        "A request for change",
+        "An Exception Report",
+        "A risk with an estimated high impact"
+      ],
+      "answer": 1,
+      "why": "Requests for change are handled through issue control.",
+      "duplicateOf": null
+    },
+    {
+      "id": "bm522-paper-8",
+      "number": 8,
+      "question": "Which is a typical core activity within configuration management?",
+      "options": [
+        "Quality assurance",
+        "Risk management",
+        "Verification and audit",
+        "Progress reporting"
+      ],
+      "answer": 2,
+      "why": "Check actual products against their authorised versions.",
+      "duplicateOf": null
+    },
+    {
+      "id": "bm522-paper-9",
+      "number": 9,
+      "question": "Which should be funded by a change budget?",
+      "options": [
+        "Increase in agreed scope",
+        "Initiation stage",
+        "Change Authority",
+        "Handover activities"
+      ],
+      "answer": 0,
+      "why": "An approved scope increase can use the change budget.",
+      "duplicateOf": null
+    },
+    {
+      "id": "bm522-paper-10",
+      "number": 10,
+      "question": "Which is the Issue Register NOT used for?",
+      "options": [
+        "Capture external events that are impacting a stage",
+        "Record information about a deviation in stage tolerance",
+        "Capture any threats or opportunities that might have an impact on a stage",
+        "Record any problems identified when authorizing a Work Package"
+      ],
+      "answer": 2,
+      "why": "Uncertain threats and opportunities belong in the Risk Register.",
+      "duplicateOf": null
+    },
+    {
+      "id": "bm522-paper-11",
+      "number": 11,
+      "question": "If the Project Board instructs the Project Manager to implement a request for change, which document would contain details of that change?",
+      "options": [
+        "Checkpoint Report",
+        "Highlight Report",
+        "Issue Report",
+        "Product Status Account"
+      ],
+      "answer": 2,
+      "why": "The Issue Report details the issue and decision.",
+      "duplicateOf": null
+    },
+    {
+      "id": "bm522-paper-12",
+      "number": 12,
+      "question": "Which is the purpose of the Change theme?",
+      "options": [
+        "Prevent change to baselined products",
+        "Identify, assess and control any potential and approved changes to baselined products",
+        "Establish mechanisms to monitor and compare actual achievements against those planned",
+        "Assess and control uncertainty"
+      ],
+      "answer": 1,
+      "why": "Control changes rather than prohibit them.",
+      "duplicateOf": null
+    },
+    {
+      "id": "bm522-paper-13",
+      "number": 13,
+      "question": "Which step in the issue and change control procedure considers alternative options for responding to an issue that is being managed formally?",
+      "options": [
+        "Capture",
+        "Examine",
+        "Propose",
+        "Decide"
+      ],
+      "answer": 2,
+      "why": "Propose develops response options.",
+      "duplicateOf": null
+    },
+    {
+      "id": "bm522-paper-14",
+      "number": 14,
+      "question": "A product can NOT be supplied to meet all of the requirements in its baselined Product Description. What first action should be taken?",
+      "options": [
+        "Raise a request for change",
+        "Raise an off-specification",
+        "Write an Exception Report",
+        "Amend the Work Package"
+      ],
+      "answer": 1,
+      "why": "Record the unmet requirement before deciding corrective action.",
+      "duplicateOf": null
+    },
+    {
+      "id": "bm522-paper-15",
+      "number": 15,
+      "question": "Which statements about Closing a Project are true?\n1. It provides a fixed point for receipt of completed Work Packages for work performed in the final stage.\n2. It provides a fixed point to review whether objectives in the original Project Initiation Documentation have been achieved.",
+      "options": [
+        "Only 1 is true",
+        "Only 2 is true",
+        "Both 1 and 2 are true",
+        "Neither 1 nor 2 is true"
+      ],
+      "answer": 1,
+      "why": "Closure reviews objectives; work-package acceptance is managed during delivery.",
+      "duplicateOf": null
+    },
+    {
+      "id": "bm522-paper-16",
+      "number": 16,
+      "question": "What takes place during the Closing a Project process?",
+      "options": [
+        "The post-project benefits reviews are performed",
+        "Ownership of the project’s products is transferred to the customer",
+        "An End Stage Report is prepared for the final stage",
+        "The project closure notification is reviewed and approved"
+      ],
+      "answer": 1,
+      "why": "Handover occurs here; the board authorises closure separately.",
+      "duplicateOf": null
+    },
+    {
+      "id": "bm522-paper-17",
+      "number": 17,
+      "question": "What is the collective name for individuals or groups who may be affected by a project?",
+      "options": [
+        "Customers",
+        "Project Support",
+        "Stakeholders",
+        "Team Members"
+      ],
+      "answer": 2,
+      "why": "Affected people and groups are stakeholders.",
+      "duplicateOf": null
+    },
+    {
+      "id": "bm522-paper-18",
+      "number": 18,
+      "question": "What is defined as a temporary organisation that is created for the purpose of delivering one or more business products?",
+      "options": [
+        "Corporate or programme management",
+        "A Project",
+        "A product breakdown structure",
+        "A user group"
+      ],
+      "answer": 1,
+      "why": "A project is temporary and delivers agreed products.",
+      "duplicateOf": null
+    },
+    {
+      "id": "bm522-paper-19",
+      "number": 19,
+      "question": "Which PRINCE2 principle helps to address a concern that the project team may NOT have worked on a similar project?",
+      "options": [
+        "Defined roles and responsibilities",
+        "Learn from experience",
+        "Manage by exception",
+        "Focus on products"
+      ],
+      "answer": 1,
+      "why": "Seek relevant lessons, including from other teams.",
+      "duplicateOf": null
+    },
+    {
+      "id": "bm522-paper-20",
+      "number": 20,
+      "question": "Who is the key project decision-maker in the project management team?",
+      "options": [
+        "Corporate Management",
+        "Executive",
+        "Change Authority",
+        "Project Manager"
+      ],
+      "answer": 1,
+      "why": "The Executive holds overall accountability for project success.",
+      "duplicateOf": null
+    }
+  ],
+  "longAnswers": [
+    {
+      "id": "screening",
+      "title": "Project screening models",
+      "question": "Project screening is an important part of effective project management. Identify what types of models can be used to help screen project ideas, giving examples. Pick TWO different models and evaluate the benefits of using them. (20 marks)",
+      "guidance": [
+        "Explain screening: compare proposals against strategy, feasibility, resources and expected value before committing to delivery.",
+        "Identify numerical approaches, such as net present value and weighted scoring, and non-numerical approaches, such as a feasibility checklist. Choose two and explain how each works.",
+        "Example 1: a weighted scoring matrix compares three scheduling tools against affordability, accessibility and integration. Show criteria, weights and scores. Its strengths are transparency and inclusion of non-financial priorities. Weights and ratings remain subjective, so test sensitivity.",
+        "Example 2: NPV discounts forecast cash flows and subtracts the initial investment. For an illustrative £10,000 investment returning £6,000 annually for two years at 10%, NPV is about £413. It accounts for timing and value, but unreliable forecasts can mislead and some social benefits are difficult to price.",
+        "Conclude by combining financial and practical criteria. State assumptions and explain which model best supports the chosen decision. These examples are illustrative, not client results."
+      ],
+      "photoMarks": "4 marks: explain screening and its importance; 4: identify models; 12: explain two chosen models with an example and at least two benefits each."
+    },
+    {
+      "id": "processes",
+      "title": "Seven PRINCE2 processes",
+      "question": "What are the seven processes of the PRINCE2 methodology and what do they involve? Give examples of how these processes can help effectively manage a business project. (20 marks)",
+      "guidance": [
+        "Starting up a Project: check the proposal merits initiation. For a study app, clarify its purpose, sponsor and initial scope.",
+        "Directing a Project: the board makes authorisation decisions and provides direction throughout the project.",
+        "Initiating a Project: establish the detailed basis for control, including plans, roles and management approaches.",
+        "Controlling a Stage: the project manager assigns work, monitors progress and responds to issues within authority.",
+        "Managing Product Delivery: teams agree, produce and deliver work packages, such as an accessible quiz interface.",
+        "Managing a Stage Boundary: assess the completed stage and prepare the next stage, or an exception plan when requested.",
+        "Closing a Project: confirm acceptance, arrange handover, evaluate performance and record follow-on actions.",
+        "Explain how these interact. Directing spans the lifecycle; these are not seven consecutive development phases. Apply each to the same example and explain its management value."
+      ],
+      "photoMarks": "12 marks: identify the seven processes and give explanations; 8: apply project examples. The slide says “principles” in one line, but the question and listed SU/IP/DP/CS/MP/SB/CP items concern processes."
+    },
+    {
+      "id": "change",
+      "title": "Managing and communicating change",
+      "question": "What is your understanding of change management? What techniques can be used to plan, monitor and control change in a project? Using examples, explain how change should be communicated to different types of stakeholders. (20 marks)",
+      "guidance": [
+        "Distinguish controlled changes to project baselines from helping people adopt new working practices. Both matter, but use the terminology in your module materials.",
+        "For the older PRINCE2 procedure, explain capture, examine, propose, decide and implement. Log the request, assess consequences, compare responses, obtain an authorised decision and update controlled documents.",
+        "Assess scope, quality, time, cost, risk and expected benefits. Use an issue/change log, version control, impact assessment and decision records to track approved work.",
+        "For a proposed new app feature, explain the development and training effort before requesting approval. Escalate forecast tolerance breaches rather than quietly changing the baseline.",
+        "Tailor communication: give the sponsor costs and decision options, developers detailed acceptance criteria, users a demonstration and support, and lecturers the timetable implications. Record feedback and check understanding.",
+        "Evaluate trade-offs: rigorous control protects scope, while excessive bureaucracy can delay useful improvements. Tailor the process to the scale and risk."
+      ],
+      "photoMarks": "2 marks: definition and importance; 8: techniques (the photo mentions PRINCE2 five steps, PMBOK six steps and a change log/control); 10: link stakeholders to changes and suitable communication. Confirm the PMBOK version and six-step sequence with your lecturer. The slide mentions a risk register; record changes in the issue/change log and related uncertainties in the risk register."
+    },
+    {
+      "id": "quality",
+      "title": "Project quality and three tools",
+      "question": "Explain project quality management and identify and explain THREE quality management tools which help with planning, monitoring and control, using specific examples. (20 marks)",
+      "guidance": [
+        "Define quality around agreed requirements and fitness for purpose. Distinguish planning criteria, assurance of the process and control through checking outputs.",
+        "Tool 1: a cause-and-effect (fishbone) diagram groups possible causes of a problem. For quiz errors, investigate content, software, devices and review procedures. It supports investigation but does not prove a cause.",
+        "Tool 2: a Pareto chart ranks defect categories by frequency. If most recorded failures concern navigation and answer feedback, prioritise those first. Use actual counts; do not assume every case follows an 80/20 rule.",
+        "Tool 3: a control chart plots a repeated process measure against statistically derived limits. For a regularly monitored service, investigate unusual variation in response time. Control limits are not the same as customer acceptance limits.",
+        "Connect each tool to a decision and corrective action. Explain data needs, who checks quality and how fixes are retested. For a small one-off project, a test checklist may be more proportionate than a control chart."
+      ],
+      "photoMarks": null
+    },
+    {
+      "id": "methodology",
+      "title": "Choose and apply a methodology",
+      "question": "Why is it important to have a methodology for project management? What are the main methodologies which could be used? Pick ONE and apply it to a potential project, illustrating its advantages and disadvantages. (20 marks)",
+      "guidance": [
+        "Explain how a shared approach supports planning, responsibilities, communication, risk management and control. It improves consistency but does not guarantee success.",
+        "Compare options briefly: PRINCE2 supports governance; Waterfall uses sequential delivery; Agile is a family of approaches, with Scrum as a framework and Kanban as a flow-management method. PMBOK is a body of knowledge, not a single delivery methodology.",
+        "Choose one and apply it consistently. Example: use Scrum for a study app with an evolving interface, an ordered product backlog, a Product Owner, Scrum Master and Developers.",
+        "Describe a short Sprint delivering a usable quiz feature, daily inspection, a Sprint Review with students and a Retrospective to improve team working. Define acceptance and completion criteria.",
+        "Advantages include early feedback and frequent usable increments. Disadvantages include demand for regular stakeholder involvement and difficulty promising a fixed full scope when requirements change.",
+        "Reach a reasoned judgement. A safety-critical or tightly contracted project may need different or additional controls. Tailor the approach and explain why it fits."
+      ],
+      "photoMarks": "3 marks: why use a methodology; 5: identify approaches; 12: chosen approach, with two advantages (4), two disadvantages (4) and application (4). The slide lists PMBOK and Agile alongside methodologies; explain the distinctions rather than treating all terms as equivalent."
+    },
+    {
+      "id": "risk-extra",
+      "extra": true,
+      "title": "Risk management — additional photographed question",
+      "question": "What is your understanding of risk management? What techniques can be used to identify and monitor risk in a project? Using examples, explain how risk should be communicated to different types of stakeholders. (20 marks)",
+      "photoMarks": "2 marks: definition and importance; 8: identification techniques (4) and monitoring (4); 10: stakeholders, potential risks and communication using a stakeholder communication plan and risk register.",
+      "guidance": [
+        "Define risk as uncertainty that may affect objectives positively or negatively. Explain why identifying and responding early supports decisions.",
+        "Identify risks through brainstorming, interviews, mind maps, nominal group techniques and Delphi rounds. A risk breakdown structure helps organise risk sources.",
+        "Assess probability and impact, assign owners and responses in a risk register, then monitor triggers, actions and residual exposure. A probability-impact matrix supports prioritisation but its scores depend on evidence and judgement.",
+        "Example: a study app may depend on a single hosting provider. Assess disruption risk, assign a response owner, plan backups and test recovery. Distinguish a possible outage from an outage already occurring.",
+        "Tailor updates: sponsors need exposure and decision options, technical staff need triggers and response tasks, and students need practical service information. Specify frequency, escalation thresholds and two-way feedback.",
+        "Use one linked example throughout, explain limitations and evaluate whether responses are proportionate. This is extra revision from the projected slides, not a sixth question added to the supplied five-question paper."
+      ]
+    }
+  ],
+  "comparison": "The five typed longer-answer prompts match the photographed paper. The projected slides add a risk-management variant and marking guidance. Duplicate MCQ 3/5 retained only in the 20-item mode."
+}
