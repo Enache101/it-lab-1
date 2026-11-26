@@ -19,10 +19,24 @@
     });
     if (installed) status.textContent = 'IT lab 1 is already open as an app or has just been added on this device.';
   }
-  const ua = navigator.userAgent;
-  const platform = /iPad|iPhone|iPod/.test(ua) || (/Macintosh/.test(ua) && navigator.maxTouchPoints > 1)
-    ? 'ios' : /Android/.test(ua) ? 'android' : /Macintosh/.test(ua) ? 'mac' : 'desktop';
-  dialog.querySelectorAll('[data-platform]').forEach(item => { item.open = item.dataset.platform === platform; });
+  function detectPlatform(ua, touchPoints, system) {
+    if (/iPad|iPhone|iPod/.test(ua) || (/Macintosh|MacIntel/.test(ua+' '+system) && touchPoints > 1)) return 'ios';
+    if (/Android/i.test(ua+' '+system)) return 'android';
+    if (/Macintosh|MacIntel|macOS/i.test(ua+' '+system)) return 'mac';
+    return 'desktop';
+  }
+  const platform = detectPlatform(navigator.userAgent, navigator.maxTouchPoints || 0,
+    navigator.userAgentData?.platform || navigator.platform || '');
+  const names = {ios:'iPhone or iPad',android:'Android phone or tablet',mac:'Mac',desktop:'Computer / other device'};
+  const detected = document.getElementById('installDetected');
+  const deviceChoice = document.getElementById('installDevice');
+  detected.textContent = 'Suggested for this device: '+names[platform]+'. Choose another below if needed. Device detection stays on this device.';
+  function chooseDevice(value) {
+    dialog.querySelectorAll('[data-platform]').forEach(item => { item.open = item.dataset.platform === value; });
+    deviceChoice.value = value;
+  }
+  chooseDevice(platform);
+  deviceChoice.addEventListener('change', () => chooseDevice(deviceChoice.value));
   buttons.forEach(button => button.addEventListener('click', () => {
     opener = button;
     refresh();
