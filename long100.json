@@ -1,0 +1,1002 @@
+[
+  {
+    "id": 1,
+    "topic": "Principles and tailoring",
+    "question": "Why is it important to use a structured method such as PRINCE2 to manage a project? Explain the main features of PRINCE2 and how they support planning, accountability and control. Apply the method to a potential business project, illustrating how it could be used throughout delivery. Evaluate the advantages and limitations of using PRINCE2 for that type of project. (20 marks)",
+    "hints": [
+      "Link the principle to an actual decision, not just a document.",
+      "Explain who acts, what evidence they use and why the control matters.",
+      "For tailoring, compare proportionate arrangements while retaining accountability."
+    ]
+  },
+  {
+    "id": 2,
+    "topic": "Principles and tailoring",
+    "question": "What are the seven principles of PRINCE2, and why are they important to the effective management of a project? Explain what each principle requires and how the principles work together. Choose a potential business project and illustrate the application of TWO principles. Evaluate the consequences of neglecting these principles and explain why applying isolated PRINCE2 documents would not establish that the principles are being followed. (20 marks)",
+    "hints": [
+      "Link the principle to an actual decision, not just a document.",
+      "Explain who acts, what evidence they use and why the control matters.",
+      "For tailoring, compare proportionate arrangements while retaining accountability."
+    ]
+  },
+  {
+    "id": 3,
+    "topic": "Principles and tailoring",
+    "question": "Explain the PRINCE2 principle of continued business justification and why a project needs a valid reason for starting and continuing. Discuss how this principle should influence decisions at different points in a project's life. Apply it to a potential project and evaluate the consequences of concentrating on completing the agreed work while failing to check whether the project remains justified. (20 marks)",
+    "hints": [
+      "Link the principle to an actual decision, not just a document.",
+      "Explain who acts, what evidence they use and why the control matters.",
+      "For tailoring, compare proportionate arrangements while retaining accountability."
+    ]
+  },
+  {
+    "id": 4,
+    "topic": "Principles and tailoring",
+    "question": "Why is learning from experience a principle of PRINCE2? Explain how lessons should be sought before a project starts, captured during delivery and communicated when it closes. Use a potential project to illustrate how earlier experience could improve a current management decision. Evaluate the limitations of collecting lessons without applying them, and discuss how responsibilities and review arrangements can support effective learning. (20 marks)",
+    "hints": [
+      "Link the principle to an actual decision, not just a document.",
+      "Explain who acts, what evidence they use and why the control matters.",
+      "For tailoring, compare proportionate arrangements while retaining accountability."
+    ]
+  },
+  {
+    "id": 5,
+    "topic": "Principles and tailoring",
+    "question": "Explain the PRINCE2 principle of defined roles and responsibilities and its importance in coordinating people with different interests. Discuss how authority, accountability and working relationships should be established within the project management team. Apply this principle to a potential business project and evaluate the problems caused by overlapping responsibilities or unallocated work. Explain how clarity should be maintained when team membership changes. (20 marks)",
+    "hints": [
+      "Link the principle to an actual decision, not just a document.",
+      "Explain who acts, what evidence they use and why the control matters.",
+      "For tailoring, compare proportionate arrangements while retaining accountability."
+    ]
+  },
+  {
+    "id": 6,
+    "topic": "Principles and tailoring",
+    "question": "What does managing by stages mean in PRINCE2, and why does the method require management stages? Distinguish a management stage from a specialist work activity and explain how stage boundaries support Project Board control. Apply the principle to a potential project, proposing suitable stages. Evaluate how their number and length should reflect the project's complexity, risk and need for informed decisions. (20 marks)",
+    "hints": [
+      "Link the principle to an actual decision, not just a document.",
+      "Explain who acts, what evidence they use and why the control matters.",
+      "For tailoring, compare proportionate arrangements while retaining accountability."
+    ]
+  },
+  {
+    "id": 7,
+    "topic": "Principles and tailoring",
+    "question": "Explain the PRINCE2 principle of management by exception and the purpose of tolerances in delegating authority. Discuss how responsibilities for monitoring, forecasting and escalation operate between management levels. Apply this principle to a potential project and evaluate how it can support efficient decision making without removing oversight. Explain why a forecast breach requires attention before an agreed tolerance has actually been exceeded. (20 marks)",
+    "hints": [
+      "Link the principle to an actual decision, not just a document.",
+      "Explain who acts, what evidence they use and why the control matters.",
+      "For tailoring, compare proportionate arrangements while retaining accountability."
+    ]
+  },
+  {
+    "id": 8,
+    "topic": "Principles and tailoring",
+    "question": "What does the PRINCE2 principle of focusing on products require from a project team? Explain how agreed product definitions support planning, quality management and acceptance. Apply the principle to a potential project, illustrating the information needed to describe its intended products. Evaluate the problems that could arise if the team concentrates on completing activities without a shared understanding of what must be delivered. (20 marks)",
+    "hints": [
+      "Link the principle to an actual decision, not just a document.",
+      "Explain who acts, what evidence they use and why the control matters.",
+      "For tailoring, compare proportionate arrangements while retaining accountability."
+    ]
+  },
+  {
+    "id": 9,
+    "topic": "Principles and tailoring",
+    "question": "Explain what tailoring PRINCE2 to suit the project environment involves and why the method should not be applied identically to every project. Discuss how size, complexity, risk and organisational circumstances affect its application. Use TWO contrasting projects to illustrate suitable differences in documentation, reporting and management arrangements. Evaluate how tailoring can reduce unnecessary administration while retaining the PRINCE2 principles and effective control. (20 marks)",
+    "hints": [
+      "Link the principle to an actual decision, not just a document.",
+      "Explain who acts, what evidence they use and why the control matters.",
+      "For tailoring, compare proportionate arrangements while retaining accountability."
+    ]
+  },
+  {
+    "id": 10,
+    "topic": "Principles and tailoring",
+    "question": "Distinguish PRINCE2 principles, themes and processes, explaining the contribution each makes to the method. Why should the themes not be treated as activities completed only once? Using a potential project, show how one principle, one theme and one process can support the same management decision. Evaluate the weaknesses of applying these elements separately without understanding the relationships between them. (20 marks)",
+    "hints": [
+      "Link the principle to an actual decision, not just a document.",
+      "Explain who acts, what evidence they use and why the control matters.",
+      "For tailoring, compare proportionate arrangements while retaining accountability."
+    ]
+  },
+  {
+    "id": 11,
+    "topic": "Business Case theme",
+    "question": "What is the purpose of the Business Case theme in PRINCE2? Explain the main information contained in a Business Case and how it supports decisions about investing in a project. Apply this to a potential business project, considering reasons, options, costs, benefits, timescales and major risks. Evaluate the problems that could arise if the Business Case becomes an approval document that is subsequently ignored. (20 marks)",
+    "hints": [
+      "Connect the decision to alternatives, costs, outcomes, benefits and risks.",
+      "Distinguish delivering an output from realising a benefit; identify an owner and measurement.",
+      "Explain what changed forecasts mean for continuing, modifying or stopping work."
+    ]
+  },
+  {
+    "id": 12,
+    "topic": "Business Case theme",
+    "question": "Explain why the PRINCE2 Business Case should consider alternative business options before a project is authorised. Discuss the purposes of examining doing nothing, doing the minimum and doing something more substantial. Apply these options to a business need of your choice and evaluate how their costs, benefits and risks should inform the recommendation. Explain why the preferred option should not be assumed in advance. (20 marks)",
+    "hints": [
+      "Connect the decision to alternatives, costs, outcomes, benefits and risks.",
+      "Distinguish delivering an output from realising a benefit; identify an owner and measurement.",
+      "Explain what changed forecasts mean for continuing, modifying or stopping work."
+    ]
+  },
+  {
+    "id": 13,
+    "topic": "Business Case theme",
+    "question": "Distinguish outputs, outcomes, benefits and disbenefits within the PRINCE2 Business Case theme, using examples from a potential project. Explain how these concepts are connected and why completing the agreed products does not automatically achieve the intended benefits. Discuss how the Business Case should represent both positive and negative consequences, and evaluate the effect of overlooking disbenefits when judging the project's continuing justification. (20 marks)",
+    "hints": [
+      "Connect the decision to alternatives, costs, outcomes, benefits and risks.",
+      "Distinguish delivering an output from realising a benefit; identify an owner and measurement.",
+      "Explain what changed forecasts mean for continuing, modifying or stopping work."
+    ]
+  },
+  {
+    "id": 14,
+    "topic": "Business Case theme",
+    "question": "Explain what it means for a PRINCE2 project to be desirable, viable and achievable, and why all three considerations matter when assessing its Business Case. Apply these considerations to a proposed project, identifying the evidence needed to support a decision. Evaluate how a proposal could satisfy one consideration but fail another, and discuss the implications for authorising or continuing the project. (20 marks)",
+    "hints": [
+      "Connect the decision to alternatives, costs, outcomes, benefits and risks.",
+      "Distinguish delivering an output from realising a benefit; identify an owner and measurement.",
+      "Explain what changed forecasts mean for continuing, modifying or stopping work."
+    ]
+  },
+  {
+    "id": 15,
+    "topic": "Business Case theme",
+    "question": "Explain how the Business Case develops and is maintained throughout a PRINCE2 project's life. Discuss its role during Starting up a Project, Initiating a Project, stage boundary reviews and project closure. Use a potential project to illustrate how information becomes more detailed and why forecasts may change. Evaluate how regular review supports informed Project Board decisions and continued business justification. (20 marks)",
+    "hints": [
+      "Connect the decision to alternatives, costs, outcomes, benefits and risks.",
+      "Distinguish delivering an output from realising a benefit; identify an owner and measurement.",
+      "Explain what changed forecasts mean for continuing, modifying or stopping work."
+    ]
+  },
+  {
+    "id": 16,
+    "topic": "Business Case theme",
+    "question": "Explain the respective responsibilities of the Executive and Senior User for business justification and benefits in PRINCE2. Discuss how their contributions relate to the project manager's work in developing and maintaining the Business Case. Apply these responsibilities to a potential project and evaluate the problems that arise when benefit ownership is unclear. Explain how accountability for benefits should continue after project closure. (20 marks)",
+    "hints": [
+      "Connect the decision to alternatives, costs, outcomes, benefits and risks.",
+      "Distinguish delivering an output from realising a benefit; identify an owner and measurement.",
+      "Explain what changed forecasts mean for continuing, modifying or stopping work."
+    ]
+  },
+  {
+    "id": 17,
+    "topic": "Business Case theme",
+    "question": "What is the purpose of the Benefits Review Plan in PRINCE2, and how does it support the Business Case? Explain the information needed about benefits, measurement methods, baseline performance, timing and ownership. Apply the plan to a potential project and discuss how reviews during and after delivery would be organised. Evaluate the consequences of leaving review arrangements unresolved when the project closes. (20 marks)",
+    "hints": [
+      "Connect the decision to alternatives, costs, outcomes, benefits and risks.",
+      "Distinguish delivering an output from realising a benefit; identify an owner and measurement.",
+      "Explain what changed forecasts mean for continuing, modifying or stopping work."
+    ]
+  },
+  {
+    "id": 18,
+    "topic": "Business Case theme",
+    "question": "How should a PRINCE2 project respond when changing circumstances weaken its business justification? Explain the information and options that should be considered before deciding to continue, modify or stop the project. Use a potential project to illustrate the decision and the responsibilities of the appropriate management levels. Evaluate why money already spent should not, by itself, justify further expenditure or prevent premature closure. (20 marks)",
+    "hints": [
+      "Connect the decision to alternatives, costs, outcomes, benefits and risks.",
+      "Distinguish delivering an output from realising a benefit; identify an owner and measurement.",
+      "Explain what changed forecasts mean for continuing, modifying or stopping work."
+    ]
+  },
+  {
+    "id": 19,
+    "topic": "Business Case theme",
+    "question": "Explain why a PRINCE2 Business Case should consider the costs and benefits of using the project's products as well as the costs of delivering them. Discuss how ongoing operating costs, maintenance, expected benefits and major risks influence business justification. Apply this to a potential project and evaluate the weaknesses of assessing its value using the initial delivery budget alone. (20 marks)",
+    "hints": [
+      "Connect the decision to alternatives, costs, outcomes, benefits and risks.",
+      "Distinguish delivering an output from realising a benefit; identify an owner and measurement.",
+      "Explain what changed forecasts mean for continuing, modifying or stopping work."
+    ]
+  },
+  {
+    "id": 20,
+    "topic": "Business Case theme",
+    "question": "What is the purpose of setting benefits tolerances in a PRINCE2 project? Explain how changes in forecast benefits should be assessed against these tolerances and the Business Case. Use a potential project to illustrate a benefit shortfall and discuss the reporting and decision responsibilities involved. Evaluate why satisfactory progress against time and cost targets does not remove the need to address a forecast benefits exception. (20 marks)",
+    "hints": [
+      "Connect the decision to alternatives, costs, outcomes, benefits and risks.",
+      "Distinguish delivering an output from realising a benefit; identify an owner and measurement.",
+      "Explain what changed forecasts mean for continuing, modifying or stopping work."
+    ]
+  },
+  {
+    "id": 21,
+    "topic": "Organisation theme",
+    "question": "Why does the PRINCE2 Organisation theme require the representation of business, user and supplier interests? Explain the needs and concerns associated with each interest and how they contribute to effective project decisions. Apply these interests to a potential project and evaluate the consequences of omitting or inadequately representing one of them. Discuss how the project management structure can support balanced consideration of competing needs. (20 marks)",
+    "hints": [
+      "Name the relevant role and distinguish authority from daily management.",
+      "Show whose interests are represented and where a decision must be referred.",
+      "Explain assurance, communication and separation of duties where the question requires them."
+    ]
+  },
+  {
+    "id": 22,
+    "topic": "Organisation theme",
+    "question": "Explain the Project Board's accountability and principal responsibilities within a PRINCE2 project. Discuss how the board provides direction, secures commitment and makes key authorisation decisions while delegating daily management. Use a potential project to illustrate effective oversight and evaluate the consequences of a board that either rarely engages or intervenes in every operational decision. Explain how clear decision boundaries support its effectiveness. (20 marks)",
+    "hints": [
+      "Name the relevant role and distinguish authority from daily management.",
+      "Show whose interests are represented and where a decision must be referred.",
+      "Explain assurance, communication and separation of duties where the question requires them."
+    ]
+  },
+  {
+    "id": 23,
+    "topic": "Organisation theme",
+    "question": "Distinguish the Executive, Senior User and Senior Supplier roles within a PRINCE2 Project Board. Explain their different responsibilities and how their contributions support decisions about project direction and delivery. Apply the roles to a potential project, identifying suitable representatives and the contributions expected from them. Evaluate the difficulties that arise when role holders represent only their departmental preferences rather than their defined project responsibilities. (20 marks)",
+    "hints": [
+      "Name the relevant role and distinguish authority from daily management.",
+      "Show whose interests are represented and where a decision must be referred.",
+      "Explain assurance, communication and separation of duties where the question requires them."
+    ]
+  },
+  {
+    "id": 24,
+    "topic": "Organisation theme",
+    "question": "Explain the different responsibilities of the Project Manager and Team Manager in PRINCE2. Discuss how their relationship is established through agreed Work Packages, progress reporting and delivery expectations. Apply these arrangements to a potential project and evaluate how clear delegation can support coordination. Explain the problems that could arise if a Team Manager accepts additional work or changes commitments without the appropriate agreement. (20 marks)",
+    "hints": [
+      "Name the relevant role and distinguish authority from daily management.",
+      "Show whose interests are represented and where a decision must be referred.",
+      "Explain assurance, communication and separation of duties where the question requires them."
+    ]
+  },
+  {
+    "id": 25,
+    "topic": "Organisation theme",
+    "question": "What is the purpose of Project Assurance in PRINCE2, and why must it remain independent of the Project Manager? Explain how business, user and supplier assurance supports the Project Board's responsibilities. Apply assurance activities to a potential project and discuss how findings should inform decisions. Evaluate the weaknesses of relying solely on the Project Manager's own reporting to establish that the project is being managed appropriately. (20 marks)",
+    "hints": [
+      "Name the relevant role and distinguish authority from daily management.",
+      "Show whose interests are represented and where a decision must be referred.",
+      "Explain assurance, communication and separation of duties where the question requires them."
+    ]
+  },
+  {
+    "id": 26,
+    "topic": "Organisation theme",
+    "question": "Explain the purpose and typical responsibilities of Project Support within PRINCE2. Discuss how administrative services, assistance with planning and the maintenance of project information can support the Project Manager. Apply the role to a potential project and distinguish it from Project Assurance and decision making authority. Evaluate how support arrangements should reflect project needs without creating unnecessary administration or obscuring management accountability. (20 marks)",
+    "hints": [
+      "Name the relevant role and distinguish authority from daily management.",
+      "Show whose interests are represented and where a decision must be referred.",
+      "Explain assurance, communication and separation of duties where the question requires them."
+    ]
+  },
+  {
+    "id": 27,
+    "topic": "Organisation theme",
+    "question": "Distinguish the responsibilities of corporate or programme management from those of the Project Board in PRINCE2. Explain how project direction, delegated authority and project tolerances connect these management levels. Use a potential project to illustrate a decision that must be referred beyond the board. Evaluate the consequences of unclear boundaries and explain why the Project Board cannot assume unlimited authority over the project's commitments. (20 marks)",
+    "hints": [
+      "Name the relevant role and distinguish authority from daily management.",
+      "Show whose interests are represented and where a decision must be referred.",
+      "Explain assurance, communication and separation of duties where the question requires them."
+    ]
+  },
+  {
+    "id": 28,
+    "topic": "Organisation theme",
+    "question": "What is the purpose of the Communication Management Strategy in a PRINCE2 project? Explain how stakeholder information needs, communication methods, timing and responsibilities should be established. Apply this management product to a potential project, showing how communication would differ between relevant stakeholder groups. Evaluate how the strategy can support engagement and informed decisions, and explain why it should be reviewed as the project develops. (20 marks)",
+    "hints": [
+      "Name the relevant role and distinguish authority from daily management.",
+      "Show whose interests are represented and where a decision must be referred.",
+      "Explain assurance, communication and separation of duties where the question requires them."
+    ]
+  },
+  {
+    "id": 29,
+    "topic": "Organisation theme",
+    "question": "How can PRINCE2 organisational arrangements be tailored for a small project? Explain how some roles may be combined while retaining clear accountability and necessary separation of responsibilities. Use a potential small project to propose suitable arrangements and justify them. Evaluate the risks of combining too many roles, considering the independence of assurance, decision authority and the distinction between directing and managing the project. (20 marks)",
+    "hints": [
+      "Name the relevant role and distinguish authority from daily management.",
+      "Show whose interests are represented and where a decision must be referred.",
+      "Explain assurance, communication and separation of duties where the question requires them."
+    ]
+  },
+  {
+    "id": 30,
+    "topic": "Organisation theme",
+    "question": "Explain how the PRINCE2 Organisation theme supports relationships between a customer organisation and external suppliers. Discuss supplier representation, the Senior Supplier's responsibilities and the links between the Project Manager and supplier delivery teams. Apply these arrangements to a potential project involving more than one supplier. Evaluate how responsibilities and communication should be coordinated to avoid gaps, conflicting commitments and inadequate representation of specialist delivery interests. (20 marks)",
+    "hints": [
+      "Name the relevant role and distinguish authority from daily management.",
+      "Show whose interests are represented and where a decision must be referred.",
+      "Explain assurance, communication and separation of duties where the question requires them."
+    ]
+  },
+  {
+    "id": 31,
+    "topic": "Plans theme",
+    "question": "What is the purpose of the Plans theme in PRINCE2, and how does it support communication and control? Explain the information a PRINCE2 plan should provide about products, activities, resources, costs and timescales. Apply the theme to a potential project, showing how plans support delegated authority. Evaluate the consequences of treating a plan merely as a schedule rather than an agreed basis for management. (20 marks)",
+    "hints": [
+      "Start with the products and their acceptance or quality requirements.",
+      "Connect plans, dependencies and Work Packages to the responsible management level.",
+      "Distinguish an approved baseline from an unauthorised change or a proposed replacement plan."
+    ]
+  },
+  {
+    "id": 32,
+    "topic": "Plans theme",
+    "question": "Compare the purposes of Project Plans, Stage Plans and Team Plans in PRINCE2, explaining who uses each and how their levels of detail differ. Using a potential project, illustrate how the plans should connect and remain consistent. Discuss when a Team Plan would be useful, recognising that it is optional, and evaluate the consequences of planning without clear links between management levels. (20 marks)",
+    "hints": [
+      "Start with the products and their acceptance or quality requirements.",
+      "Connect plans, dependencies and Work Packages to the responsible management level.",
+      "Distinguish an approved baseline from an unauthorised change or a proposed replacement plan."
+    ]
+  },
+  {
+    "id": 33,
+    "topic": "Plans theme",
+    "question": "Explain the four steps in PRINCE2's product-based planning technique and the purpose of the information produced at each step. Apply the technique to a potential project, showing how required products, their descriptions and their relationships establish a basis for planning. Evaluate how this approach can reveal missing products and unclear quality requirements before the team estimates the activities needed for delivery. (20 marks)",
+    "hints": [
+      "Start with the products and their acceptance or quality requirements.",
+      "Connect plans, dependencies and Work Packages to the responsible management level.",
+      "Distinguish an approved baseline from an unauthorised change or a proposed replacement plan."
+    ]
+  },
+  {
+    "id": 34,
+    "topic": "Plans theme",
+    "question": "What is the purpose of the Project Product Description in PRINCE2, and how does it support agreement about the project's overall result? Explain its main contents and distinguish it from the Product Descriptions for individual products. Using a potential project, illustrate how it guides planning and acceptance arrangements. Evaluate the risks of authorising delivery before the overall product and its acceptance requirements are understood. (20 marks)",
+    "hints": [
+      "Start with the products and their acceptance or quality requirements.",
+      "Connect plans, dependencies and Work Packages to the responsible management level.",
+      "Distinguish an approved baseline from an unauthorised change or a proposed replacement plan."
+    ]
+  },
+  {
+    "id": 35,
+    "topic": "Plans theme",
+    "question": "Distinguish a product breakdown structure from a product flow diagram in PRINCE2 product-based planning. Explain the information each provides and how they are developed from the required products. Apply both to a potential project, considering products supplied from outside the project. Evaluate how using the two together can expose omissions and dependencies that might otherwise undermine the reliability of the plan. (20 marks)",
+    "hints": [
+      "Start with the products and their acceptance or quality requirements.",
+      "Connect plans, dependencies and Work Packages to the responsible management level.",
+      "Distinguish an approved baseline from an unauthorised change or a proposed replacement plan."
+    ]
+  },
+  {
+    "id": 36,
+    "topic": "Plans theme",
+    "question": "Explain how Work Packages connect PRINCE2 planning with the authorisation and delivery of team work. Discuss what the Project Manager and Team Manager should agree about products, quality requirements, constraints, tolerances and reporting before work is accepted. Apply these arrangements to a potential project and evaluate the problems that could arise if teams begin delivery without a clear and mutually understood Work Package. (20 marks)",
+    "hints": [
+      "Start with the products and their acceptance or quality requirements.",
+      "Connect plans, dependencies and Work Packages to the responsible management level.",
+      "Distinguish an approved baseline from an unauthorised change or a proposed replacement plan."
+    ]
+  },
+  {
+    "id": 37,
+    "topic": "Plans theme",
+    "question": "How does PRINCE2 turn defined products into the activities, dependencies and estimates needed for a realistic plan? Explain the relevant steps in its planning approach, including resource requirements and continuing risk analysis. Using a potential project, illustrate how product information supports these decisions. Evaluate the consequences of preparing estimates or a schedule before the products and their required quality are sufficiently understood. (20 marks)",
+    "hints": [
+      "Start with the products and their acceptance or quality requirements.",
+      "Connect plans, dependencies and Work Packages to the responsible management level.",
+      "Distinguish an approved baseline from an unauthorised change or a proposed replacement plan."
+    ]
+  },
+  {
+    "id": 38,
+    "topic": "Plans theme",
+    "question": "Explain the difference between management stages and technical stages in PRINCE2. Discuss how management stages provide decision points and delegated control, while technical stages reflect specialist delivery work. Apply this distinction to a potential project in which specialist activities overlap. Evaluate the factors that should determine management stage boundaries and the problems caused by assuming that every specialist phase must become a separate management stage. (20 marks)",
+    "hints": [
+      "Start with the products and their acceptance or quality requirements.",
+      "Connect plans, dependencies and Work Packages to the responsible management level.",
+      "Distinguish an approved baseline from an unauthorised change or a proposed replacement plan."
+    ]
+  },
+  {
+    "id": 39,
+    "topic": "Plans theme",
+    "question": "What is an Exception Plan in PRINCE2, and how does it differ from an Exception Report? Explain how an Exception Plan is requested, prepared and considered for approval, including when it replaces a Stage Plan or Project Plan. Apply this to a potential project and evaluate why a forecast breach of Work Package tolerance follows a different response rather than automatically requiring an Exception Plan. (20 marks)",
+    "hints": [
+      "Start with the products and their acceptance or quality requirements.",
+      "Connect plans, dependencies and Work Packages to the responsible management level.",
+      "Distinguish an approved baseline from an unauthorised change or a proposed replacement plan."
+    ]
+  },
+  {
+    "id": 40,
+    "topic": "Plans theme",
+    "question": "Explain how the planning horizon influences the level of detail in PRINCE2 plans. Discuss why the next Stage Plan is developed using current information and experience from earlier stages. Using a potential project, show how approval and baselining establish a basis for control. Evaluate how plans can remain useful as knowledge develops without allowing unauthorised changes to replace agreed commitments. (20 marks)",
+    "hints": [
+      "Start with the products and their acceptance or quality requirements.",
+      "Connect plans, dependencies and Work Packages to the responsible management level.",
+      "Distinguish an approved baseline from an unauthorised change or a proposed replacement plan."
+    ]
+  },
+  {
+    "id": 41,
+    "topic": "Quality theme",
+    "question": "What is the purpose of the Quality theme in PRINCE2, and how does it support the principle of focusing on products? Explain how quality should be planned, checked and demonstrated throughout delivery. Apply the theme to a potential project, linking product requirements with the intended business use. Evaluate why meeting time and cost targets cannot compensate for products that fail to meet agreed quality requirements. (20 marks)",
+    "hints": [
+      "State what is being checked, against which criteria, by whom and when.",
+      "Distinguish checking a product from approval, acceptance and independent assurance.",
+      "Use records and follow-up actions to show how quality evidence supports a decision."
+    ]
+  },
+  {
+    "id": 42,
+    "topic": "Quality theme",
+    "question": "Distinguish customer quality expectations, acceptance criteria and quality tolerances in PRINCE2. Explain how broad expectations are developed into an agreed and measurable basis for judging the project product. Using a potential project, illustrate the relationship between these concepts and identify where the relevant information should be recorded. Evaluate the consequences of leaving acceptable performance ranges or acceptance responsibilities unclear until delivery is nearly complete. (20 marks)",
+    "hints": [
+      "State what is being checked, against which criteria, by whom and when.",
+      "Distinguish checking a product from approval, acceptance and independent assurance.",
+      "Use records and follow-up actions to show how quality evidence supports a decision."
+    ]
+  },
+  {
+    "id": 43,
+    "topic": "Quality theme",
+    "question": "Explain the quality information that should appear in a PRINCE2 Product Description, including criteria, tolerances, methods and responsibilities. Using a product from a potential project, show how this information would guide its production and checking. Evaluate how an agreed Product Description supports objective decisions about fitness for purpose, and discuss the risks of relying on personal expectations or informal assurances instead. (20 marks)",
+    "hints": [
+      "State what is being checked, against which criteria, by whom and when.",
+      "Distinguish checking a product from approval, acceptance and independent assurance.",
+      "Use records and follow-up actions to show how quality evidence supports a decision."
+    ]
+  },
+  {
+    "id": 44,
+    "topic": "Quality theme",
+    "question": "What is the purpose of a Quality Management Strategy in PRINCE2, and why should it be established during initiation? Explain the procedures, responsibilities, standards, records and reporting arrangements it should address. Apply the strategy to a potential project involving users and suppliers. Evaluate how it supports consistent quality management, including appropriate links with corporate or programme arrangements, without replacing the quality requirements of individual products. (20 marks)",
+    "hints": [
+      "State what is being checked, against which criteria, by whom and when.",
+      "Distinguish checking a product from approval, acceptance and independent assurance.",
+      "Use records and follow-up actions to show how quality evidence supports a decision."
+    ]
+  },
+  {
+    "id": 45,
+    "topic": "Quality theme",
+    "question": "Explain the purpose and main contents of the Quality Register in PRINCE2. Discuss how planned and completed quality activities should be recorded and connected to supporting evidence. Using a potential project, illustrate how the Project Manager and Project Assurance could use the register to review progress. Evaluate why a register entry or a completed inspection alone does not necessarily demonstrate product approval or acceptance. (20 marks)",
+    "hints": [
+      "State what is being checked, against which criteria, by whom and when.",
+      "Distinguish checking a product from approval, acceptance and independent assurance.",
+      "Use records and follow-up actions to show how quality evidence supports a decision."
+    ]
+  },
+  {
+    "id": 46,
+    "topic": "Quality theme",
+    "question": "Explain PRINCE2's quality review technique, including preparation, the review meeting and follow-up. Discuss the contributions of the chair, presenter, reviewer and administrator, and apply the technique to a suitable product from a potential project. Evaluate how defined review roles and agreed quality criteria support a useful result, explaining why actions must be completed and the appropriate approval obtained before the product is treated as authorised. (20 marks)",
+    "hints": [
+      "State what is being checked, against which criteria, by whom and when.",
+      "Distinguish checking a product from approval, acceptance and independent assurance.",
+      "Use records and follow-up actions to show how quality evidence supports a decision."
+    ]
+  },
+  {
+    "id": 47,
+    "topic": "Quality theme",
+    "question": "Distinguish quality control, quality assurance and Project Assurance in the PRINCE2 approach. Explain their purposes, responsibilities and different requirements for independence, including the relationship between the project and corporate or programme management. Using a potential project, illustrate how the three activities complement one another. Evaluate the risks of confusing independent assurance with product testing or assuming that one activity can replace all the others. (20 marks)",
+    "hints": [
+      "State what is being checked, against which criteria, by whom and when.",
+      "Distinguish checking a product from approval, acceptance and independent assurance.",
+      "Use records and follow-up actions to show how quality evidence supports a decision."
+    ]
+  },
+  {
+    "id": 48,
+    "topic": "Quality theme",
+    "question": "Explain the producer, reviewer and approver responsibilities associated with a PRINCE2 Product Description. Discuss why the required competence, authority and appropriate separation of responsibilities should be agreed before production begins. Apply these responsibilities to a product from a potential project and evaluate how unclear assignments could affect the credibility of quality checks, the handling of corrective work and the decision to approve the product. (20 marks)",
+    "hints": [
+      "State what is being checked, against which criteria, by whom and when.",
+      "Distinguish checking a product from approval, acceptance and independent assurance.",
+      "Use records and follow-up actions to show how quality evidence supports a decision."
+    ]
+  },
+  {
+    "id": 49,
+    "topic": "Quality theme",
+    "question": "Explain the distinction between quality records, approval records and acceptance records in PRINCE2. Discuss how these provide evidence that checking has occurred, authorised people are satisfied and the project product can be accepted. Using a potential project, illustrate how the evidence should support handover and closure decisions. Evaluate the consequences of treating a successful test as sufficient proof that every required approval has been obtained. (20 marks)",
+    "hints": [
+      "State what is being checked, against which criteria, by whom and when.",
+      "Distinguish checking a product from approval, acceptance and independent assurance.",
+      "Use records and follow-up actions to show how quality evidence supports a decision."
+    ]
+  },
+  {
+    "id": 50,
+    "topic": "Quality theme",
+    "question": "How should PRINCE2 quality planning address products that require different methods of checking? Explain how suitable quality methods, timing, resources and responsibilities should be selected and recorded. Apply this to contrasting products within a potential project, showing how the Quality Management Strategy, Product Descriptions and Quality Register work together. Evaluate the risks of using the same review or test for every product regardless of its purpose. (20 marks)",
+    "hints": [
+      "State what is being checked, against which criteria, by whom and when.",
+      "Distinguish checking a product from approval, acceptance and independent assurance.",
+      "Use records and follow-up actions to show how quality evidence supports a decision."
+    ]
+  },
+  {
+    "id": 51,
+    "topic": "Risk theme",
+    "question": "What is the purpose of the Risk theme in PRINCE2, and why does it consider both threats and opportunities? Explain the recommended procedure for identifying, assessing, planning responses to and implementing action on risks, with communication throughout. Apply the procedure to a potential project and evaluate how effective risk management supports informed decisions and continued business justification rather than simply producing a list of possible problems. (20 marks)",
+    "hints": [
+      "Describe cause, uncertain event and effect on an objective.",
+      "Connect assessment, owner, response and ongoing monitoring; consider opportunities as well as threats.",
+      "Evaluate response cost, residual exposure and escalation rather than merely listing risks."
+    ]
+  },
+  {
+    "id": 52,
+    "topic": "Risk theme",
+    "question": "Explain the purpose of the Risk Management Strategy in PRINCE2 and distinguish it from the Risk Register. Discuss the procedures, responsibilities, scales, tolerances, reporting and timing arrangements that the strategy should establish. Using a potential project, illustrate how these arrangements would make risk management consistent. Evaluate the problems that could arise if teams used incompatible assessments or lacked clear authority for responding to risk. (20 marks)",
+    "hints": [
+      "Describe cause, uncertain event and effect on an objective.",
+      "Connect assessment, owner, response and ongoing monitoring; consider opportunities as well as threats.",
+      "Evaluate response cost, residual exposure and escalation rather than merely listing risks."
+    ]
+  },
+  {
+    "id": 53,
+    "topic": "Risk theme",
+    "question": "Explain how establishing the risk management context and describing a risk through its cause, uncertain event and effect support PRINCE2 risk identification. Apply this approach to a threat and an opportunity within a potential project. Discuss how lessons, assumptions and stakeholder knowledge can improve identification, and evaluate the consequences of recording vague concerns that do not show which project objectives could be affected. (20 marks)",
+    "hints": [
+      "Describe cause, uncertain event and effect on an objective.",
+      "Connect assessment, owner, response and ongoing monitoring; consider opportunities as well as threats.",
+      "Evaluate response cost, residual exposure and escalation rather than merely listing risks."
+    ]
+  },
+  {
+    "id": 54,
+    "topic": "Risk theme",
+    "question": "Distinguish risk estimation from risk evaluation in PRINCE2. Explain how probability, impact and the timing of risks inform assessment, and why the combined exposure requires attention alongside individual risks. Using a potential project, illustrate how the assessment could influence priorities and business justification. Evaluate the limitations of relying on simple rankings without considering uncertainty, relationships between risks or the organisation's agreed risk tolerances. (20 marks)",
+    "hints": [
+      "Describe cause, uncertain event and effect on an objective.",
+      "Connect assessment, owner, response and ongoing monitoring; consider opportunities as well as threats.",
+      "Evaluate response cost, residual exposure and escalation rather than merely listing risks."
+    ]
+  },
+  {
+    "id": 55,
+    "topic": "Risk theme",
+    "question": "What information should a PRINCE2 Risk Register contain, and how should it support the management of identified risks? Explain how assessments, responses, ownership and status should develop as the project progresses. Apply this to a risk within a potential project, showing how its history would be maintained. Evaluate the consequences of treating the register as a document completed at initiation rather than a continuing management record. (20 marks)",
+    "hints": [
+      "Describe cause, uncertain event and effect on an objective.",
+      "Connect assessment, owner, response and ongoing monitoring; consider opportunities as well as threats.",
+      "Evaluate response cost, residual exposure and escalation rather than merely listing risks."
+    ]
+  },
+  {
+    "id": 56,
+    "topic": "Risk theme",
+    "question": "Explain the threat response options used in PRINCE2, including avoidance, reduction, fallback, transfer, acceptance and sharing. Apply three different responses to suitable threats in a potential project, showing how each would affect exposure or the consequences of occurrence. Evaluate how response costs, feasibility and remaining risk should influence selection, and explain why transferring responsibility for some consequences does not necessarily remove every effect on the project. (20 marks)",
+    "hints": [
+      "Describe cause, uncertain event and effect on an objective.",
+      "Connect assessment, owner, response and ongoing monitoring; consider opportunities as well as threats.",
+      "Evaluate response cost, residual exposure and escalation rather than merely listing risks."
+    ]
+  },
+  {
+    "id": 57,
+    "topic": "Risk theme",
+    "question": "Explain the PRINCE2 opportunity responses of exploiting, enhancing, sharing and rejecting an opportunity. Using a potential project, illustrate how the appropriate response depends on the possible benefit, probability and resources required. Evaluate why actively pursuing every opportunity may be inappropriate, and explain how an opportunity that is rejected should still be monitored rather than automatically removed from consideration for the remainder of the project. (20 marks)",
+    "hints": [
+      "Describe cause, uncertain event and effect on an objective.",
+      "Connect assessment, owner, response and ongoing monitoring; consider opportunities as well as threats.",
+      "Evaluate response cost, residual exposure and escalation rather than merely listing risks."
+    ]
+  },
+  {
+    "id": 58,
+    "topic": "Risk theme",
+    "question": "Distinguish the responsibilities of a risk owner and a risk actionee in PRINCE2. Explain how their work should be coordinated when implementing and monitoring a response. Using a potential project, illustrate the difference between residual and secondary risks and discuss how these should be managed. Evaluate the consequences of recording a response as complete without checking its effectiveness or the new exposure it may create. (20 marks)",
+    "hints": [
+      "Describe cause, uncertain event and effect on an objective.",
+      "Connect assessment, owner, response and ongoing monitoring; consider opportunities as well as threats.",
+      "Evaluate response cost, residual exposure and escalation rather than merely listing risks."
+    ]
+  },
+  {
+    "id": 59,
+    "topic": "Risk theme",
+    "question": "What is the purpose of a risk budget in PRINCE2, and how can it support planned responses to threats and opportunities? Explain how access, authority and use should be controlled through the Risk Management Strategy. Apply this to a potential project, including a fallback arrangement. Evaluate why the availability of a risk budget does not justify unapproved spending or remove the need to assess response effectiveness. (20 marks)",
+    "hints": [
+      "Describe cause, uncertain event and effect on an objective.",
+      "Connect assessment, owner, response and ongoing monitoring; consider opportunities as well as threats.",
+      "Evaluate response cost, residual exposure and escalation rather than merely listing risks."
+    ]
+  },
+  {
+    "id": 60,
+    "topic": "Risk theme",
+    "question": "Explain why communication operates throughout PRINCE2 risk management and how risk tolerances influence escalation. Using a potential project, discuss how risk information should reach the Project Manager, Project Board and relevant stakeholders through appropriate reports and agreed communication arrangements. Evaluate the consequences of delaying escalation until a threat occurs, and explain how significant changes in exposure should affect decisions about continuing the project. (20 marks)",
+    "hints": [
+      "Describe cause, uncertain event and effect on an objective.",
+      "Connect assessment, owner, response and ongoing monitoring; consider opportunities as well as threats.",
+      "Evaluate response cost, residual exposure and escalation rather than merely listing risks."
+    ]
+  },
+  {
+    "id": 61,
+    "topic": "Change theme",
+    "question": "What is the purpose of the PRINCE2 Change theme, and why must approved project baselines be protected? Explain how issue management and change control support informed decisions about proposed alterations. Apply these arrangements to a potential project, showing how authorised changes would be distinguished from uncontrolled changes. Evaluate the consequences of changing agreed products without assessing the effects or recording approval. (20 marks)",
+    "hints": [
+      "Classify the matter and identify the affected approved product or baseline.",
+      "Explain impact assessment, appropriate approval and version/status records.",
+      "Consider cumulative consequences and distinguish change funding from risk responses."
+    ]
+  },
+  {
+    "id": 62,
+    "topic": "Change theme",
+    "question": "Explain the three issue categories recognised in PRINCE2: a request for change, an off-specification, and a problem or concern. Distinguish these issues from uncertain future risks, using relevant project examples. Discuss why correct classification matters when deciding how each matter should be recorded, assessed and handled. Evaluate the consequences of treating every issue as a risk or every issue as a request for change. (20 marks)",
+    "hints": [
+      "Classify the matter and identify the affected approved product or baseline.",
+      "Explain impact assessment, appropriate approval and version/status records.",
+      "Consider cumulative consequences and distinguish change funding from risk responses."
+    ]
+  },
+  {
+    "id": 63,
+    "topic": "Change theme",
+    "question": "Explain the PRINCE2 issue and change control procedure, covering capture, examine, propose, decide and implement. Use a potential request for change to illustrate the information, responsibilities and decisions involved at each step. Discuss how the procedure connects with delegated authority and the protection of baselines, and evaluate the problems that could arise if implementation begins before a properly informed decision has been authorised. (20 marks)",
+    "hints": [
+      "Classify the matter and identify the affected approved product or baseline.",
+      "Explain impact assessment, appropriate approval and version/status records.",
+      "Consider cumulative consequences and distinguish change funding from risk responses."
+    ]
+  },
+  {
+    "id": 64,
+    "topic": "Change theme",
+    "question": "What different purposes do the Daily Log, Issue Register and Issue Report serve in PRINCE2? Explain how each supports the handling of issues and when an initially informal matter may require formal control. Illustrate their use within a potential project, discussing how information should remain consistent as an issue develops. Evaluate the consequences of incomplete records, duplicated information or unrecorded decisions. (20 marks)",
+    "hints": [
+      "Classify the matter and identify the affected approved product or baseline.",
+      "Explain impact assessment, appropriate approval and version/status records.",
+      "Consider cumulative consequences and distinguish change funding from risk responses."
+    ]
+  },
+  {
+    "id": 65,
+    "topic": "Change theme",
+    "question": "Explain the purpose of a PRINCE2 Change Authority and how its authority is established by the Project Board. Discuss the limits and reporting arrangements that should accompany delegated decisions. Using a potential project, illustrate which changes could be approved within the delegation and which would require referral. Evaluate the benefits of delegation and the risks of unclear boundaries or decisions beyond those boundaries. (20 marks)",
+    "hints": [
+      "Classify the matter and identify the affected approved product or baseline.",
+      "Explain impact assessment, appropriate approval and version/status records.",
+      "Consider cumulative consequences and distinguish change funding from risk responses."
+    ]
+  },
+  {
+    "id": 66,
+    "topic": "Change theme",
+    "question": "What is the purpose of a change budget in PRINCE2, and how does it differ from a risk budget and the budget for planned project work? Explain how funding arrangements should support authorised decisions without removing the need to assess a change. Apply these distinctions to a potential project and discuss what should happen when the available change budget or delegated authority is insufficient. (20 marks)",
+    "hints": [
+      "Classify the matter and identify the affected approved product or baseline.",
+      "Explain impact assessment, appropriate approval and version/status records.",
+      "Consider cumulative consequences and distinguish change funding from risk responses."
+    ]
+  },
+  {
+    "id": 67,
+    "topic": "Change theme",
+    "question": "Explain the purpose of the PRINCE2 Configuration Management Strategy and the arrangements it should establish for controlling project products. Discuss identification, version control, responsibilities, status information and verification. Apply these arrangements to a potential project, showing how they help people use the correct approved information. Evaluate how weak configuration management could undermine change control, product quality and confidence in reported progress. (20 marks)",
+    "hints": [
+      "Classify the matter and identify the affected approved product or baseline.",
+      "Explain impact assessment, appropriate approval and version/status records.",
+      "Consider cumulative consequences and distinguish change funding from risk responses."
+    ]
+  },
+  {
+    "id": 68,
+    "topic": "Change theme",
+    "question": "Distinguish the purpose of a Configuration Item Record from that of a Product Status Account in PRINCE2. Explain the information each provides and how the records support a reliable account of product status. Illustrate their use in a potential project, including when a status account may be requested. Discuss how outdated versions or missing status information could affect assessment, approval and handover decisions. (20 marks)",
+    "hints": [
+      "Classify the matter and identify the affected approved product or baseline.",
+      "Explain impact assessment, appropriate approval and version/status records.",
+      "Consider cumulative consequences and distinguish change funding from risk responses."
+    ]
+  },
+  {
+    "id": 69,
+    "topic": "Change theme",
+    "question": "How should PRINCE2 handle a product that cannot meet an agreed requirement in its baselined Product Description? Explain the treatment of an off-specification and compare correcting the shortfall with seeking approval for a concession. Use a potential project example to discuss impact assessment, appropriate decision authority and documentation. Evaluate why a supplier or project manager should not simply alter the baseline to conceal non-conformity. (20 marks)",
+    "hints": [
+      "Classify the matter and identify the affected approved product or baseline.",
+      "Explain impact assessment, appropriate approval and version/status records.",
+      "Consider cumulative consequences and distinguish change funding from risk responses."
+    ]
+  },
+  {
+    "id": 70,
+    "topic": "Change theme",
+    "question": "Why must a proposed change be assessed against more than its immediate cost in PRINCE2? Explain how its effects on the Business Case, plans, benefits, quality and risk should inform a decision. Apply this assessment to a potential project and discuss how several individually small changes could have a significant combined effect. Evaluate how cumulative impacts should influence approval, funding and escalation decisions. (20 marks)",
+    "hints": [
+      "Classify the matter and identify the affected approved product or baseline.",
+      "Explain impact assessment, appropriate approval and version/status records.",
+      "Consider cumulative consequences and distinguish change funding from risk responses."
+    ]
+  },
+  {
+    "id": 71,
+    "topic": "Progress theme",
+    "question": "What is the purpose of the PRINCE2 Progress theme? Explain how comparing actual results with approved plans and forecasting future performance support decisions about continued viability. Apply these activities to a potential project, showing how evidence should inform control at different management levels. Discuss why apparently favourable current results may still require action and evaluate the consequences of reporting activity without assessing delivery or forecasts. (20 marks)",
+    "hints": [
+      "Compare evidence of actual delivery with the approved plan and forecast.",
+      "Identify the reporting audience and who holds the relevant tolerance authority.",
+      "Explain corrective action or escalation; do not wait for a scheduled report when an exception is forecast."
+    ]
+  },
+  {
+    "id": 72,
+    "topic": "Progress theme",
+    "question": "Explain the six performance aspects for which PRINCE2 tolerances may be established: time, cost, quality, scope, benefits and risk. Discuss how appropriate tolerances support delegation between corporate or programme management, the Project Board, project manager and Team Manager. Use a potential project to illustrate agreed limits and forecast exceptions. Evaluate why tolerance levels and escalation responsibilities must be clear before work is authorised. (20 marks)",
+    "hints": [
+      "Compare evidence of actual delivery with the approved plan and forecast.",
+      "Identify the reporting audience and who holds the relevant tolerance authority.",
+      "Explain corrective action or escalation; do not wait for a scheduled report when an exception is forecast."
+    ]
+  },
+  {
+    "id": 73,
+    "topic": "Progress theme",
+    "question": "Distinguish between time-driven and event-driven controls in PRINCE2, explaining the purpose and suitable examples of each. Apply both types of control to a potential project and discuss how their frequency or timing should reflect management needs. Evaluate how the two types work together to support progress decisions, and explain why scheduled reporting must not delay action when an exception is forecast. (20 marks)",
+    "hints": [
+      "Compare evidence of actual delivery with the approved plan and forecast.",
+      "Identify the reporting audience and who holds the relevant tolerance authority.",
+      "Explain corrective action or escalation; do not wait for a scheduled report when an exception is forecast."
+    ]
+  },
+  {
+    "id": 74,
+    "topic": "Progress theme",
+    "question": "Explain the differences between Checkpoint Reports and Highlight Reports in PRINCE2, including their purpose, preparation, audience and typical contents. Illustrate how information from team delivery should support the project manager's reporting to the Project Board. Discuss how reporting arrangements should be agreed and tailored, and evaluate the consequences of providing excessive detail, omitting significant concerns or reporting progress without supporting evidence. (20 marks)",
+    "hints": [
+      "Compare evidence of actual delivery with the approved plan and forecast.",
+      "Identify the reporting audience and who holds the relevant tolerance authority.",
+      "Explain corrective action or escalation; do not wait for a scheduled report when an exception is forecast."
+    ]
+  },
+  {
+    "id": 75,
+    "topic": "Progress theme",
+    "question": "What is the purpose of an End Stage Report in PRINCE2, and how does it support the Project Board's decisions? Explain the evidence needed to compare stage performance with the approved Stage Plan and summarise significant issues, risks and lessons. Apply your discussion to a potential project, and evaluate why a favourable account of completed work must still be considered alongside future forecasts and continuing business justification. (20 marks)",
+    "hints": [
+      "Compare evidence of actual delivery with the approved plan and forecast.",
+      "Identify the reporting audience and who holds the relevant tolerance authority.",
+      "Explain corrective action or escalation; do not wait for a scheduled report when an exception is forecast."
+    ]
+  },
+  {
+    "id": 76,
+    "topic": "Progress theme",
+    "question": "When should a PRINCE2 project manager produce an Exception Report, and what information should it provide? Explain how a forecast breach of stage tolerance should be communicated, including its causes, consequences and available options. Use a potential project example to illustrate the decisions required from the Project Board. Evaluate why waiting for an actual breach could undermine control even when current performance remains within tolerance. (20 marks)",
+    "hints": [
+      "Compare evidence of actual delivery with the approved plan and forecast.",
+      "Identify the reporting audience and who holds the relevant tolerance authority.",
+      "Explain corrective action or escalation; do not wait for a scheduled report when an exception is forecast."
+    ]
+  },
+  {
+    "id": 77,
+    "topic": "Progress theme",
+    "question": "How can a PRINCE2 project manager take corrective action while remaining within delegated authority? Explain how progress information, issues and risks should be reviewed before selecting and implementing an action. Apply your discussion to a potential project, distinguishing action within agreed tolerances from a situation requiring escalation. Evaluate how approved plans, Work Packages and subsequent monitoring should remain consistent with the decision taken. (20 marks)",
+    "hints": [
+      "Compare evidence of actual delivery with the approved plan and forecast.",
+      "Identify the reporting audience and who holds the relevant tolerance authority.",
+      "Explain corrective action or escalation; do not wait for a scheduled report when an exception is forecast."
+    ]
+  },
+  {
+    "id": 78,
+    "topic": "Progress theme",
+    "question": "Why must a PRINCE2 Project Board refer a forecast breach of project-level tolerance to corporate or programme management? Explain the distinction between the Board's delegated authority and the authority above it. Use a potential project to discuss the evidence and options that should support this referral. Evaluate why the Board should not independently expand its limits or redefine an approved baseline merely to avoid reporting an exception. (20 marks)",
+    "hints": [
+      "Compare evidence of actual delivery with the approved plan and forecast.",
+      "Identify the reporting audience and who holds the relevant tolerance authority.",
+      "Explain corrective action or escalation; do not wait for a scheduled report when an exception is forecast."
+    ]
+  },
+  {
+    "id": 79,
+    "topic": "Progress theme",
+    "question": "Explain how PRINCE2 assesses progress through the delivery of agreed products and evidence of their quality. Discuss the roles of Product Descriptions, plans, quality records and product status information in establishing a reliable position. Apply these controls to a potential project and evaluate why expenditure, effort or informal percentage-complete estimates alone may provide misleading evidence of achievement and readiness for further work. (20 marks)",
+    "hints": [
+      "Compare evidence of actual delivery with the approved plan and forecast.",
+      "Identify the reporting audience and who holds the relevant tolerance authority.",
+      "Explain corrective action or escalation; do not wait for a scheduled report when an exception is forecast."
+    ]
+  },
+  {
+    "id": 80,
+    "topic": "Progress theme",
+    "question": "Distinguish the purposes of a Lessons Log and a Lessons Report in PRINCE2. Explain how lessons should be captured, assessed and used throughout a project, including their contribution to progress reviews and future planning. Illustrate this process with a potential project example. Evaluate the consequences of recording experience without assigning actions or communicating relevant findings to those responsible for subsequent work. (20 marks)",
+    "hints": [
+      "Compare evidence of actual delivery with the approved plan and forecast.",
+      "Identify the reporting audience and who holds the relevant tolerance authority.",
+      "Explain corrective action or escalation; do not wait for a scheduled report when an exception is forecast."
+    ]
+  },
+  {
+    "id": 81,
+    "topic": "Starting, initiating and directing",
+    "question": "Identify the seven PRINCE2 processes and explain the main purpose of each. Describe how they interact from the initial project idea through delivery and closure, including the continuing role of Directing a Project. Apply these relationships to a potential project and explain why some processes recur or operate alongside others. Evaluate the misunderstandings that could arise from treating the process model as one simple linear sequence. (20 marks)",
+    "hints": [
+      "Identify the information available at this decision point and what work is being authorised.",
+      "Link the brief, Business Case, plans, roles and controls rather than listing unrelated documents.",
+      "Show the difference between investigation, initiation and permission to deliver."
+    ]
+  },
+  {
+    "id": 82,
+    "topic": "Starting, initiating and directing",
+    "question": "What is the purpose of Starting up a Project in PRINCE2, and why is it undertaken before detailed initiation? Explain the essential information, decisions and management arrangements needed to judge whether initiation is worthwhile. Apply these requirements to a potential project, discussing how the process should remain proportionate. Evaluate the consequences of committing substantial resources before establishing a credible initial justification and clear responsibility. (20 marks)",
+    "hints": [
+      "Identify the information available at this decision point and what work is being authorised.",
+      "Link the brief, Business Case, plans, roles and controls rather than listing unrelated documents.",
+      "Show the difference between investigation, initiation and permission to deliver."
+    ]
+  },
+  {
+    "id": 83,
+    "topic": "Starting, initiating and directing",
+    "question": "Explain the relationships between the Project Mandate, Project Brief, outline Business Case, project approach and Initiation Stage Plan in PRINCE2. Discuss how information develops during Starting up a Project and distinguishes an initial request from a justified proposal for initiation. Use a potential project to illustrate their contributions, and evaluate the difficulties the Project Board would face if key assumptions or proposed arrangements remained unclear. (20 marks)",
+    "hints": [
+      "Identify the information available at this decision point and what work is being authorised.",
+      "Link the brief, Business Case, plans, roles and controls rather than listing unrelated documents.",
+      "Show the difference between investigation, initiation and permission to deliver."
+    ]
+  },
+  {
+    "id": 84,
+    "topic": "Starting, initiating and directing",
+    "question": "Why does Starting up a Project include appointing the Executive and project manager, capturing previous lessons and designing the project management team? Explain the purpose and responsibilities associated with these activities in PRINCE2. Apply them to a potential project, considering the representation of business, user and supplier interests. Evaluate how unsuitable appointments or failure to learn from experience could weaken the decisions made during initiation. (20 marks)",
+    "hints": [
+      "Identify the information available at this decision point and what work is being authorised.",
+      "Link the brief, Business Case, plans, roles and controls rather than listing unrelated documents.",
+      "Show the difference between investigation, initiation and permission to deliver."
+    ]
+  },
+  {
+    "id": 85,
+    "topic": "Starting, initiating and directing",
+    "question": "Explain the purpose of Initiating a Project in PRINCE2 and the firm foundations it should establish before delivery is authorised. Discuss how the detailed Business Case, Project Plan, controls and management arrangements contribute to these foundations. Apply your explanation to a potential project and evaluate the risks of treating initiation as a paperwork exercise or beginning delivery before the necessary information and commitments have been agreed. (20 marks)",
+    "hints": [
+      "Identify the information available at this decision point and what work is being authorised.",
+      "Link the brief, Business Case, plans, roles and controls rather than listing unrelated documents.",
+      "Show the difference between investigation, initiation and permission to deliver."
+    ]
+  },
+  {
+    "id": 86,
+    "topic": "Starting, initiating and directing",
+    "question": "How should the Risk Management, Quality Management, Configuration Management and Communication Management Strategies work together during PRINCE2 initiation? Explain the purpose of each and discuss the consistency needed between responsibilities, information, controls and reporting arrangements. Apply these strategies to a potential project, showing how they support subsequent management. Evaluate the problems that could arise if they are developed independently or copied without considering project circumstances. (20 marks)",
+    "hints": [
+      "Identify the information available at this decision point and what work is being authorised.",
+      "Link the brief, Business Case, plans, roles and controls rather than listing unrelated documents.",
+      "Show the difference between investigation, initiation and permission to deliver."
+    ]
+  },
+  {
+    "id": 87,
+    "topic": "Starting, initiating and directing",
+    "question": "What is the purpose of Project Initiation Documentation in PRINCE2, and how does it provide a reference point for managing and assessing a project? Explain its principal contents and baseline role. Discuss how authorised updates to components such as the Business Case and Project Plan should be controlled while retaining the original authorisation record. Illustrate your answer with a potential project and evaluate the consequences of inconsistent information. (20 marks)",
+    "hints": [
+      "Identify the information available at this decision point and what work is being authorised.",
+      "Link the brief, Business Case, plans, roles and controls rather than listing unrelated documents.",
+      "Show the difference between investigation, initiation and permission to deliver."
+    ]
+  },
+  {
+    "id": 88,
+    "topic": "Starting, initiating and directing",
+    "question": "Explain the purpose and main activities of Directing a Project in PRINCE2. Discuss the Project Board's responsibilities for authorising initiation, the project, Stage or Exception Plans and closure, together with giving ad hoc direction. Apply these responsibilities to a potential project and evaluate how the process provides continuing accountability. Explain why effective direction should support delegated management without drawing the Board into routine delivery decisions. (20 marks)",
+    "hints": [
+      "Identify the information available at this decision point and what work is being authorised.",
+      "Link the brief, Business Case, plans, roles and controls rather than listing unrelated documents.",
+      "Show the difference between investigation, initiation and permission to deliver."
+    ]
+  },
+  {
+    "id": 89,
+    "topic": "Starting, initiating and directing",
+    "question": "Distinguish authorising initiation from authorising the project in PRINCE2. Explain the information the Project Board should examine at each decision, the commitments being approved and the work that may proceed afterwards. Apply these distinctions to a potential project, showing how the evidence develops between the two approvals. Evaluate why permission to investigate and establish a project should not be treated as permission to deliver the entire project. (20 marks)",
+    "hints": [
+      "Identify the information available at this decision point and what work is being authorised.",
+      "Link the brief, Business Case, plans, roles and controls rather than listing unrelated documents.",
+      "Show the difference between investigation, initiation and permission to deliver."
+    ]
+  },
+  {
+    "id": 90,
+    "topic": "Starting, initiating and directing",
+    "question": "How does a PRINCE2 Project Board provide direction between formal authorisation points? Explain the role of ad hoc guidance, communication with corporate or programme management and the continuing representation of business, user and supplier interests. Apply these responsibilities to a potential project, discussing the information needed to make timely decisions. Evaluate how the Board can remain accountable while respecting the project manager's delegated authority. (20 marks)",
+    "hints": [
+      "Identify the information available at this decision point and what work is being authorised.",
+      "Link the brief, Business Case, plans, roles and controls rather than listing unrelated documents.",
+      "Show the difference between investigation, initiation and permission to deliver."
+    ]
+  },
+  {
+    "id": 91,
+    "topic": "Delivery, boundaries and closure",
+    "question": "What is the purpose of the Controlling a Stage process in PRINCE2, and how does it help the project manager maintain focus on an authorised Stage Plan? Explain the main activities involved in coordinating work, reviewing progress, managing issues and reporting to the Project Board. Apply the process to a potential project and evaluate the consequences of allowing these activities to become disconnected. (20 marks)",
+    "hints": [
+      "Connect the Team Manager, Project Manager and Board through agreed work and decisions.",
+      "Explain evidence of quality, acceptance and outstanding responsibilities.",
+      "Distinguish preparing or recommending a decision from authorising it; consider benefits after closure."
+    ]
+  },
+  {
+    "id": 92,
+    "topic": "Delivery, boundaries and closure",
+    "question": "Explain how a PRINCE2 project manager authorises Work Packages and receives completed work during Controlling a Stage. Discuss the agreements, checks and evidence needed at these points, including the team manager's acceptance of the work and confirmation that required quality activities have been completed. Apply this to a potential project and evaluate the risks of relying on informal instructions or unverified completion claims. (20 marks)",
+    "hints": [
+      "Connect the Team Manager, Project Manager and Board through agreed work and decisions.",
+      "Explain evidence of quality, acceptance and outstanding responsibilities.",
+      "Distinguish preparing or recommending a decision from authorising it; consider benefits after closure."
+    ]
+  },
+  {
+    "id": 93,
+    "topic": "Delivery, boundaries and closure",
+    "question": "How should a PRINCE2 project manager review the overall position of a management stage while several Work Packages are being delivered? Explain how team progress, product status, issues and risks should be considered together when updating the Stage Plan and forecasts. Using a potential project, discuss how this review supports the choice between corrective action and escalation, and evaluate the consequences of overlooking interactions between teams. (20 marks)",
+    "hints": [
+      "Connect the Team Manager, Project Manager and Board through agreed work and decisions.",
+      "Explain evidence of quality, acceptance and outstanding responsibilities.",
+      "Distinguish preparing or recommending a decision from authorising it; consider benefits after closure."
+    ]
+  },
+  {
+    "id": 94,
+    "topic": "Delivery, boundaries and closure",
+    "question": "Explain the purpose of Managing Product Delivery in PRINCE2 and describe the activities of accepting, executing and delivering a Work Package. Discuss how this process connects the team manager's specialist delivery responsibilities with the project manager's management controls. Apply it to a potential project and evaluate how agreed product requirements, quality checks and reporting arrangements support reliable delivery within the accepted constraints. (20 marks)",
+    "hints": [
+      "Connect the Team Manager, Project Manager and Board through agreed work and decisions.",
+      "Explain evidence of quality, acceptance and outstanding responsibilities.",
+      "Distinguish preparing or recommending a decision from authorising it; consider benefits after closure."
+    ]
+  },
+  {
+    "id": 95,
+    "topic": "Delivery, boundaries and closure",
+    "question": "How should a team manager control and communicate progress while executing a PRINCE2 Work Package? Explain the use of agreed reporting arrangements, quality records and a Team Plan where appropriate, and discuss the response required when agreed delivery limits are forecast to be exceeded. Apply your explanation to a potential project and evaluate why changing commitments without consulting the project manager would weaken control. (20 marks)",
+    "hints": [
+      "Connect the Team Manager, Project Manager and Board through agreed work and decisions.",
+      "Explain evidence of quality, acceptance and outstanding responsibilities.",
+      "Distinguish preparing or recommending a decision from authorising it; consider benefits after closure."
+    ]
+  },
+  {
+    "id": 96,
+    "topic": "Delivery, boundaries and closure",
+    "question": "What is the purpose of Managing a Stage Boundary in PRINCE2, and how does it support the Project Board's decision about further investment? Explain how achievements, lessons, the next Stage Plan, the Project Plan and the Business Case should be reviewed together. Apply the process to a potential project and evaluate why preparing the next stage does not itself authorise work to begin. (20 marks)",
+    "hints": [
+      "Connect the Team Manager, Project Manager and Board through agreed work and decisions.",
+      "Explain evidence of quality, acceptance and outstanding responsibilities.",
+      "Distinguish preparing or recommending a decision from authorising it; consider benefits after closure."
+    ]
+  },
+  {
+    "id": 97,
+    "topic": "Delivery, boundaries and closure",
+    "question": "Explain how the Managing a Stage Boundary process is used when the PRINCE2 Project Board requests an Exception Plan. Discuss how the project manager should reassess the affected work, forecasts, risks and business justification before proposing a replacement plan. Apply this to a potential project and evaluate why the requested plan requires a further authorisation decision before it replaces the affected approved plan. (20 marks)",
+    "hints": [
+      "Connect the Team Manager, Project Manager and Board through agreed work and decisions.",
+      "Explain evidence of quality, acceptance and outstanding responsibilities.",
+      "Distinguish preparing or recommending a decision from authorising it; consider benefits after closure."
+    ]
+  },
+  {
+    "id": 98,
+    "topic": "Delivery, boundaries and closure",
+    "question": "Explain the purpose of the Closing a Project process in PRINCE2 and the activities required for a planned closure. Discuss how acceptance, operational handover, achievement of objectives and responsibilities for outstanding work should be confirmed. Using a potential project, explain the project manager's closure recommendation and the Project Board's authorisation decision, and evaluate why completed delivery alone is insufficient evidence that closure is appropriate. (20 marks)",
+    "hints": [
+      "Connect the Team Manager, Project Manager and Board through agreed work and decisions.",
+      "Explain evidence of quality, acceptance and outstanding responsibilities.",
+      "Distinguish preparing or recommending a decision from authorising it; consider benefits after closure."
+    ]
+  },
+  {
+    "id": 99,
+    "topic": "Delivery, boundaries and closure",
+    "question": "How should a PRINCE2 project be closed when the Project Board directs premature closure? Explain how completed and incomplete products, outstanding supplier commitments, useful assets and remaining responsibilities should be assessed and transferred. Apply this process to a potential project that is stopped before meeting its original objectives, and evaluate how controlled closure protects the organisation while preserving useful results and lessons. (20 marks)",
+    "hints": [
+      "Connect the Team Manager, Project Manager and Board through agreed work and decisions.",
+      "Explain evidence of quality, acceptance and outstanding responsibilities.",
+      "Distinguish preparing or recommending a decision from authorising it; consider benefits after closure."
+    ]
+  },
+  {
+    "id": 100,
+    "topic": "Delivery, boundaries and closure",
+    "question": "Explain how the End Project Report, Lessons Report, follow-on action recommendations and updated Benefits Review Plan support PRINCE2 project closure. Discuss the different purposes of these management products and how responsibilities should continue after the project team is disbanded. Apply them to a potential project and evaluate how the resulting information can support later benefits reviews, operational action and improvements to future PRINCE2 projects. (20 marks)",
+    "hints": [
+      "Connect the Team Manager, Project Manager and Board through agreed work and decisions.",
+      "Explain evidence of quality, acceptance and outstanding responsibilities.",
+      "Distinguish preparing or recommending a decision from authorising it; consider benefits after closure."
+    ]
+  }
+]
