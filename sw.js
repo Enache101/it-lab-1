@@ -1,5 +1,5 @@
-const CACHE='itlab-public-20261126-1';
-const FILES=['./','./index.html','./style.css','./app.js','./config.js','./questions.json','./flashcards.json','./assignments.json','./manifest.webmanifest','./icons/icon-192.png','./icons/icon-512.png','./IT_lab_1_QR.png'];
+const CACHE='itlab-public-20261126-2';
+const FILES=['./','./index.html','./style.css','./app.js','./install.js','./config.js','./questions.json','./flashcards.json','./assignments.json','./manifest.webmanifest','./icons/icon-192.png','./icons/icon-512.png','./IT_lab_1_QR.png'];
 self.addEventListener('install',event=>event.waitUntil(caches.open(CACHE).then(c=>c.addAll(FILES))));
 self.addEventListener('activate',event=>event.waitUntil(caches.keys().then(keys=>Promise.all(keys.filter(k=>k.startsWith('itlab-public-')&&k!==CACHE).map(k=>caches.delete(k)))).then(()=>self.clients.claim())));
 self.addEventListener('fetch',event=>{if(event.request.method!=='GET'||new URL(event.request.url).origin!==self.location.origin)return;event.respondWith(fetch(event.request).then(response=>{if(response.ok){const copy=response.clone();event.waitUntil(caches.open(CACHE).then(c=>c.put(event.request,copy)));}return response;}).catch(()=>caches.match(event.request).then(r=>r||(event.request.mode==='navigate'?caches.match('./index.html'):Response.error()))));});
