@@ -1,0 +1,18 @@
+.pdf-reader-open{overflow:hidden}
+#pdfReader{box-sizing:border-box;position:fixed;inset:0;width:100%;max-width:none;height:100%;height:100dvh;max-height:none;margin:0;padding:0;border:0;color:var(--fg,#203040);background:var(--bg,#f6f5f2);overflow:hidden;border-radius:0}
+#pdfReader::backdrop{background:#0008}
+.pdf-reader-shell{height:100%;display:flex;flex-direction:column}
+#pdfReader .pdf-reader-header{position:static;display:flex;align-items:center;gap:10px;flex-wrap:wrap;flex-shrink:0;padding:calc(10px + env(safe-area-inset-top)) max(12px,env(safe-area-inset-right)) 10px max(12px,env(safe-area-inset-left));color:var(--fg,#203040);background:var(--panel,#fff);border-bottom:1px solid #8885}
+#pdfReader h2{font-size:1rem;line-height:1.3;margin:0;flex:1 1 140px}
+#pdfReader button{font:inherit;min-height:44px;cursor:pointer}
+#pdfReaderBack{background:#781c35;color:#fff;border:1px solid #781c35;border-radius:8px;padding:10px 14px;font-weight:700;flex-shrink:0}
+.pdf-reader-controls{position:static;display:flex;align-items:center;justify-content:center;gap:8px;flex-wrap:wrap;padding:8px 12px;flex-shrink:0;background:var(--panel,#fff)}
+#pdfReaderCount{font-weight:700;text-align:center;min-width:105px}
+#pdfReaderStatus{margin:0;padding:4px 16px;font-size:.9rem;flex-shrink:0}
+#pdfReaderStatus:empty{display:none}
+#pdfReaderContent{flex:1;min-height:0;overflow:auto;overscroll-behavior:contain;-webkit-overflow-scrolling:touch;background:#dce1e5;padding:12px;touch-action:pan-x pan-y pinch-zoom}
+#pdfReaderCanvas{display:block;margin:0 auto;background:white;box-shadow:0 2px 8px #0002}
+.pdf-reader-note{font-size:.78rem;margin:0;padding:6px 12px calc(6px + env(safe-area-inset-bottom));background:var(--panel,#fff);flex-shrink:0}
+.pdf-sr-only{position:absolute;width:1px;height:1px;margin:-1px;padding:0;overflow:hidden;clip:rect(0,0,0,0);white-space:normal;border:0}
+.pdf-resource{margin-bottom:12px}.pdf-resource h3{margin:0 0 8px}.pdf-resource .button{margin:4px 4px 4px 0}
+@media(max-width:480px){#pdfReader .pdf-reader-header h2{order:3;flex-basis:100%;font-size:.9rem}#pdfReaderSave{margin-left:auto}.pdf-reader-controls{gap:5px;font-size:.85rem}.pdf-reader-note{font-size:.72rem}#pdfReaderContent{padding:8px}}
